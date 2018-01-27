@@ -104,8 +104,8 @@ The DNC Technology Department has compiled various data relating to elections in
 | state_code | Two-letter abbreviation for state, territory, etc. |
 | g2018_evip_start_date | the date in which early voting in person begins in the state |
 | g2018_evip_close_date | the date that early voting in person ends in the state |
-| g2018_vbm_application_deadline | the date by which voters must return their applications applying to vote by mail for the 2018 federal primary |
-| g2018_ballot_return_date | the date by which voters must return their ballots for the 2018 federal primary |
+| g2018_vbm_application_deadline | the date by which voters must return their applications applying to vote by mail for the 2018 general election |
+| g2018_ballot_return_date | the date by which voters must return their ballots for the 2018 general election |
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |
 
 ## g2018_eday
