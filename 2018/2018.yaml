@@ -1,0 +1,3906 @@
+AK:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-06'
+    general_evip_start_date: '2018-10-22'
+    general_vbm_application_deadline: '2018-10-26'
+    notes: ''
+  election-day:
+    polls_open: 7:00:00 AM
+    polls_close: 8:00:00 PM
+    notes: ''
+  federal:
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-21'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+    notes: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-08-21'
+    primary_federal_evip_close_date: '2018-08-20'
+    primary_federal_federal_evip_start_date: '2018-08-06'
+    primary_federal_vbm_application_deadline: '2018-08-11'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-22'
+  state-reference:
+    alaska_tz_flag: 'yes'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: other
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: http://elections.alaska.gov/Core/electiondatesandhours.php
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Alaska
+    total_cong_districts: '1'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-07'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+AL:
+  early-vote:
+    general_ballot_return_date: '2018-11-05'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-11-01'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: '2018-07-17'
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-04'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-05-31'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-21'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: sos.alabama.gov/sites/default/files/voter-pdfs/2018/2018AdministrativeCalendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Alabama
+    total_cong_districts: '7'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-22'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-22'
+    notes: ''
+AR:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-10-22'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 7:30:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-05-22'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: '2018-06-19'
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-05-22'
+    primary_federal_evip_close_date: '2018-05-21'
+    primary_federal_federal_evip_start_date: '2018-05-09'
+    primary_federal_vbm_application_deadline: '2018-04-06'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 7:30:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://www.sos.arkansas.gov/uploads/elections/2018ElectionCalendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Arkansas
+    total_cong_districts: '4'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+AS:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: American Samoa
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+AZ:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-02'
+    general_evip_start_date: '2018-10-11'
+    general_vbm_application_deadline: '2018-10-26'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-28'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-08-28'
+    primary_federal_evip_close_date: '2018-08-24'
+    primary_federal_federal_evip_start_date: '2018-08-02'
+    primary_federal_vbm_application_deadline: '2018-08-17'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-30'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://www.azsos.gov/elections/elections-calendar-upcoming-events
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'yes'
+    state_name: Arizona
+    total_cong_districts: '9'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-09'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+CA:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-10-08'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: Dates vary by county
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: jungle
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: jungle
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: Dates vary by county
+    primary_federal_ballot_return_date: '2018-06-05'
+    primary_federal_evip_close_date: '2018-06-04'
+    primary_federal_federal_evip_start_date: '2018-05-05'
+    primary_federal_vbm_application_deadline: '2018-05-29'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-21'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: http://www.sos.ca.gov/elections/upcoming-elections/
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'yes'
+    perm_absentee: 'yes'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: California
+    total_cong_districts: '53'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-22'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-22'
+    notes: ''
+CO:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-06'
+    general_evip_start_date: '2018-10-30'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-06-26'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-26'
+    primary_federal_evip_close_date: '2018-06-26'
+    primary_federal_federal_evip_start_date: '2018-06-19'
+    primary_federal_vbm_application_deadline: '2018-06-19'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-06-18'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: https://www.sos.state.co.us/pubs/elections/calendars/2018ElectionCalendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Colorado
+    total_cong_districts: '7'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+CT:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-08'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-08-14'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-08-14'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-07-14'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-08-09'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'yes'
+    election_calendar_url: http://portal.ct.gov/SOTS/Election-Services/Calendars/Election-Calendars
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Connecticut
+    total_cong_districts: '5'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-07'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+DC:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: https://www.dcboe.org/election_info/election_year2018/
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: District of Columbia
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+DE:
+  early-vote:
+    general_ballot_return_date: '2018-11-05'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-11-02'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-09-06'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-09-11'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-09-07'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: Voters living overseas have until 10/22/2018 to register to vote.
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-08-11'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://elections.delaware.gov/calendar/2018ElectionCalendar.pdf
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Delaware
+    total_cong_districts: '1'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-13'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-13'
+    notes: Voters living overseas have until 10/22/2018 to register to vote.
+FL:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-02'
+    general_evip_start_date: '2018-10-26'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: Dates vary by county
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-08-28'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: Dates vary by county
+    primary_federal_ballot_return_date: '2018-08-28'
+    primary_federal_evip_close_date: '2018-08-25'
+    primary_federal_federal_evip_start_date: '2018-08-18'
+    primary_federal_vbm_application_deadline: '2018-08-22'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-30'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://dos.myflorida.com/elections/for-voters/election-dates/
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Florida
+    total_cong_districts: '27'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-09'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+FM:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: ''
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: Federated States of Micronesia
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+GA:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-15'
+    general_vbm_application_deadline: '2018-11-02'
+    notes: Dates vary by county
+  election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-05-22'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: '2018-07-24'
+  federal-early-vote:
+    notes: Dates vary by county
+    primary_federal_ballot_return_date: '2018-05-22'
+    primary_federal_evip_close_date: '2018-05-21'
+    primary_federal_federal_evip_start_date: '2018-04-30'
+    primary_federal_vbm_application_deadline: '2018-05-18'
+  federal-election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-24'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://sos.ga.gov/index.php/elections/2018_elections_and_voter_registration_calendar
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Georgia
+    total_cong_districts: '14'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-09'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+GU:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: Guam
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+HI:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-23'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 6:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-11'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-08-11'
+    primary_federal_evip_close_date: '2018-08-04'
+    primary_federal_federal_evip_start_date: '2018-07-24'
+    primary_federal_vbm_application_deadline: '2018-08-02'
+  federal-election-day:
+    notes: ''
+    polls_close: 6:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-12'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: http://elections.hawaii.gov/about-us/calendar/action~agenda/request_format~html/
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'yes'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Hawaii
+    total_cong_districts: '2'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-09'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+IA:
+  early-vote:
+    general_ballot_return_date: '2018-11-05'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-09-27'
+    general_vbm_application_deadline: '2018-11-02'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 9:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-open
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: semi-open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-06-04'
+    primary_federal_evip_close_date: '2018-06-04'
+    primary_federal_federal_evip_start_date: '2018-04-30'
+    primary_federal_vbm_application_deadline: '2018-06-01'
+  federal-election-day:
+    notes: ''
+    polls_close: 9:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-25'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: https://sos.iowa.gov/elections/electioninfo/3yrelectioncal.html
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Iowa
+    total_cong_districts: '4'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+ID:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-02'
+    general_evip_start_date: '2018-10-07'
+    general_vbm_application_deadline: '2018-10-31'
+    notes: In-person absentee voting.
+  election-day:
+    notes: Polling place hours vary by county
+    polls_close: 8:00:00 PM
+    polls_open: 8:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: '2018-05-15'
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-05-15'
+    primary_federal_evip_close_date: '2018-05-11'
+    primary_federal_federal_evip_start_date: '2018-04-30'
+    primary_federal_vbm_application_deadline: '2018-05-09'
+  federal-election-day:
+    notes: Polling place hours vary by county
+    polls_close: 8:00:00 PM
+    polls_open: 8:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-20'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: https://sos.idaho.gov/elect/2018Calendar.html
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'yes'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Idaho
+    total_cong_districts: '2'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+IL:
+  early-vote:
+    general_ballot_return_date: '2018-11-05'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-22'
+    general_vbm_application_deadline: '2018-11-01'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-03-20'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-03-19'
+    primary_federal_evip_close_date: '2018-03-17'
+    primary_federal_federal_evip_start_date: '2018-03-05'
+    primary_federal_vbm_application_deadline: '2018-03-19'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: Voters in Illinois can register to vote on any day, including Election
+      Day
+    primary_federal_online_vr_deadline: '2018-03-04'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-02-20'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: https://www.elections.il.gov/Downloads/ElectionInformation/PDF/2018ElectionCalendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Illinois
+    total_cong_districts: '18'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: Voters in Illinois can register to vote on any day, including Election
+      Day
+IN:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-10-08'
+    general_vbm_application_deadline: '2018-10-29'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 6:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-05-08'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-05-07'
+    primary_federal_evip_close_date: '2018-04-06'
+    primary_federal_federal_evip_start_date: '2018-03-06'
+    primary_federal_vbm_application_deadline: '2018-04-30'
+  federal-election-day:
+    notes: ''
+    polls_close: 6:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: '2018-04-09'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-09'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://www.in.gov/sos/elections/files/2018%20Calendar%20Brochure.pdf
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Indiana
+    total_cong_districts: '9'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-09'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+KS:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-10-17'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: Dates vary by county
+  election-day:
+    notes: Polling place hours vary by county
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-08-07'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: Dates vary by county
+    primary_federal_ballot_return_date: '2018-08-07'
+    primary_federal_evip_close_date: '2018-08-06'
+    primary_federal_federal_evip_start_date: '2018-07-18'
+    primary_federal_vbm_application_deadline: '2018-07-31'
+  federal-election-day:
+    notes: Polling place hours vary by county
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: Kansas still has 2016 information on their website, so this is our best
+      guess at the moment.
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-12'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Kansas
+    total_cong_districts: '4'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-16'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-16'
+    notes: Kansas still has 2016 information on their website, so this is out best
+      guess at the moment.
+KY:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: 10/19/2018
+    general_vbm_application_deadline: '2018-10-30'
+    notes: Dates vary by county
+  election-day:
+    notes: ''
+    polls_close: 6:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-05-22'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: Dates vary by county
+    primary_federal_ballot_return_date: '2018-05-22'
+    primary_federal_evip_close_date: '2018-05-21'
+    primary_federal_federal_evip_start_date: '2018-05-10'
+    primary_federal_vbm_application_deadline: '2018-05-15'
+  federal-election-day:
+    notes: ''
+    polls_close: 6:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-23'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://elect.ky.gov/calendar/Documents/2018%20Election%20Calendar.pdf
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Kentucky
+    total_cong_districts: '6'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-09'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+LA:
+  early-vote:
+    general_ballot_return_date: '2018-12-07'
+    general_evip_close_date: '2018-12-01'
+    general_evip_start_date: '2018-11-24'
+    general_vbm_application_deadline: '2018-12-04'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: jungle
+    primary_federal_election_date: '2018-11-06'
+    primary_federal_rep_election_type: jungle
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-11-05'
+    primary_federal_evip_close_date: '2018-10-30'
+    primary_federal_federal_evip_start_date: '2018-10-23'
+    primary_federal_vbm_application_deadline: '2018-11-02'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: Online voter registration deadline is 10/16/2018
+    primary_federal_online_vr_deadline: '2018-10-16'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-10-09'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ElectionsCalendar2018.pdf
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Louisiana
+    total_cong_districts: '6'
+  voter-registration:
+    general_online_vr_deadline: '2018-11-17'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-11-07'
+    notes: Online voter registration deadline is 11/17/2018
+MA:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-07'
+    notes: ''
+  election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-09-18'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-09-04'
+    primary_federal_evip_close_date: '2018-08-31'
+    primary_federal_federal_evip_start_date: '2018-08-21'
+    primary_federal_vbm_application_deadline: '2018-09-03'
+  federal-election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://www.sec.state.ma.us/ele/
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: Early voting in person only applicable to the general election.
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Massachusetts
+    total_cong_districts: '9'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-17'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-17'
+    notes: ''
+MD:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-01'
+    general_evip_start_date: '2018-10-27'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-06-26'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-26'
+    primary_federal_evip_close_date: '2018-06-21'
+    primary_federal_federal_evip_start_date: '2018-06-16'
+    primary_federal_vbm_application_deadline: '2018-06-19'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-06-05'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://www.elections.state.md.us/elections/2018/2018_Election_Calendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Maryland
+    total_cong_districts: '8'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-16'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-16'
+    notes: ''
+ME:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-06'
+    general_evip_start_date: '2018-11-01'
+    general_vbm_application_deadline: '2018-11-01'
+    notes: In-person absentee voting.
+  election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-06-12'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-06-12'
+    primary_federal_evip_close_date: '2018-06-11'
+    primary_federal_federal_evip_start_date: '2018-05-12'
+    primary_federal_vbm_application_deadline: '2018-06-07'
+  federal-election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'yes'
+    election_calendar_url: http://www.maine.gov/sos/cec/elec/voter-info/index.html
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Maine
+    total_cong_districts: '2'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+MH:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: ''
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: Marshall Islands
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+MI:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-11-02'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-07'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-08-07'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-08-04'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-09'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://www.michigan.gov/documents/sos/2018_Dates_600221_7.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Michigan
+    total_cong_districts: '14'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+MN:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-09-21'
+    general_vbm_application_deadline: '2018-10-07'
+    notes: In-person absentee voting.
+  election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-14'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-08-14'
+    primary_federal_evip_close_date: '2018-08-13'
+    primary_federal_federal_evip_start_date: '2018-06-29'
+    primary_federal_vbm_application_deadline: '2018-07-16'
+  federal-election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-24'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: http://www.sos.state.mn.us/election-administration-campaigns/elections-calendar/
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'yes'
+    state_name: Minnesota
+    total_cong_districts: '8'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+MO:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-31'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-07'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-08-07'
+    primary_federal_evip_close_date: '2018-08-06'
+    primary_federal_federal_evip_start_date: '2018-06-26'
+    primary_federal_vbm_application_deadline: '2018-08-01'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-11'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://www.sos.mo.gov/elections/calendar/2018cal
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Missouri
+    total_cong_districts: '8'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-10'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-10'
+    notes: ''
+MP:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: Northern Mariana Islands
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+MS:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-07'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: '2018-06-26'
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-04'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-05-06'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: 10/9/2018 is the deadline to register to vote by mail
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-07'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: http://www.sos.ms.gov/Elections-Voting/Documents/2018%20Website%20Calendar.pdf
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Mississippi
+    total_cong_districts: '4'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-08'
+    notes: 10/9/2018 is the deadline to register to vote by mail
+MT:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-10-07'
+    general_vbm_application_deadline: '2018-11-05'
+    notes: In-person absentee voting.
+  election-day:
+    notes: Polling place hours vary by precinct
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-06-05'
+    primary_federal_evip_close_date: '2018-06-04'
+    primary_federal_federal_evip_start_date: '2018-05-05'
+    primary_federal_vbm_application_deadline: '2018-06-04'
+  federal-election-day:
+    notes: Polling place hours vary by precinct
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: 'Regular voter registration closes at 5 p.m. on 5/7/2018.
+
+      Individuals can late-register at the county election office beginning the next
+      day and through close of polls on election day.'
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-07'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: https://sos.mt.gov/elections/calendar
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Montana
+    total_cong_districts: '1'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: 'Regular voter registration closes at 5 p.m. on 10/9/2018.
+
+      Individuals can late-register at the county election office beginning the next
+      day and through close of polls on election day.'
+NC:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-18'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 6:30:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-05-08'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: '2018-07-17'
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-05-07'
+    primary_federal_evip_close_date: '2018-05-05'
+    primary_federal_federal_evip_start_date: '2018-04-19'
+    primary_federal_vbm_application_deadline: '2018-05-01'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 6:30:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-13'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://www.ncsbe.gov/Elections/Agency-Calendar
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: North Carolina
+    total_cong_districts: '13'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-12'
+    notes: ''
+ND:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-07'
+    notes: Dates vary by county
+  election-day:
+    notes: Polling place hours vary by precinct
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-06-12'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: Dates vary by county
+    primary_federal_ballot_return_date: '2018-06-11'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-05-11'
+  federal-election-day:
+    notes: Polling place hours vary by precinct
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: Voters do not register in North Dakota
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://vip.sos.nd.gov/pdfs/Portals/electioncalendar.pdf
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: North Dakota
+    total_cong_districts: '1'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: Voters do not register in North Dakota
+NE:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-06'
+    general_evip_start_date: '2018-10-02'
+    general_vbm_application_deadline: '2018-10-31'
+    notes: ''
+  election-day:
+    notes: Polling place hours vary by time zone
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-05-15'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-05-15'
+    primary_federal_evip_close_date: '2018-05-14'
+    primary_federal_federal_evip_start_date: '2018-04-10'
+    primary_federal_vbm_application_deadline: '2018-05-09'
+  federal-election-day:
+    notes: Polling place hours vary by time zone
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: '2018-04-30'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-30'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: http://www.sos.ne.gov/elec/2018/pdf/2018-election-calendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Nebraska
+    total_cong_districts: '3'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-19'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-19'
+    notes: ''
+NH:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-07'
+    notes: Early voting in person and by mail dates vary by town/municipality
+  election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 7:00:00 PM
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-09-11'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: Early voting in person and by mail dates vary by town/municipality
+    primary_federal_ballot_return_date: '2018-09-11'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-08-13'
+  federal-election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 7:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'yes'
+    election_calendar_url: http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589972718
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: New Hampshire
+    total_cong_districts: '2'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+NJ:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-30'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-06-05'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-05-29'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-15'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://www.nj.gov/state/elections/election-information-archive-2018.html
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: New Jersey
+    total_cong_districts: '12'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-16'
+    notes: ''
+NM:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-09'
+    general_vbm_application_deadline: '2018-11-02'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-05'
+    primary_federal_evip_close_date: '2018-06-02'
+    primary_federal_federal_evip_start_date: '2018-05-08'
+    primary_federal_vbm_application_deadline: '2018-06-01'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-08'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: http://www.sos.state.nm.us/
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: New Mexico
+    total_cong_districts: '3'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-09'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: ''
+NV:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-02'
+    general_evip_start_date: '2018-10-20'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-06-12'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-12'
+    primary_federal_evip_close_date: '2018-06-08'
+    primary_federal_federal_evip_start_date: '2018-05-26'
+    primary_federal_vbm_application_deadline: '2018-06-05'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: In-person deadline is 10/16/2018; online voter registration deadline is
+      10/18/2018
+    primary_federal_online_vr_deadline: '2018-05-24'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-14'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: http://nvsos.gov/sos/elections/election-information/2016-election/2016-calendar-events
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'yes'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Nevada
+    total_cong_districts: '4'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-18'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-09'
+    notes: In-person deadline is 10/16/2018; online voter registration deadline is
+      10/18/2018
+NY:
+  early-vote:
+    general_ballot_return_date: '2018-11-05'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: Polling place hours vary by county
+    polls_close: 9:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-06-28'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-25'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-06-25'
+  federal-election-day:
+    notes: Polling place hours vary by county
+    polls_close: 9:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-06-01'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://www.elections.ny.gov/NYSBOE/law/2018PoliticalCalendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: In-person absentee voting is with an excuse only.
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: New York
+    total_cong_districts: '27'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-12'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-12'
+    notes: ''
+OH:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-10-10'
+    general_vbm_application_deadline: '2018-11-03'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 6:30:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-05-08'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-05-08'
+    primary_federal_evip_close_date: '2018-05-07'
+    primary_federal_federal_evip_start_date: '2018-04-10'
+    primary_federal_vbm_application_deadline: '2018-05-05'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 6:30:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-09'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://www.sos.state.oh.us/globalassets/publications/election/2018electioncalendar_letter.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Ohio
+    total_cong_districts: '16'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+OK:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-29'
+    general_vbm_application_deadline: '2018-10-31'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: '2018-06-26'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: '2018-08-28'
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-06-26'
+    primary_federal_evip_close_date: '2018-06-23'
+    primary_federal_federal_evip_start_date: '2018-06-21'
+    primary_federal_vbm_application_deadline: '2018-06-20'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-06-01'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://www.ok.gov/elections/Election_Info/2018_Election_Calendar.html
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Oklahoma
+    total_cong_districts: '5'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-12'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-12'
+    notes: ''
+OR:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-07'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-05-15'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-05-15'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-03-08'
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-04-24'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: http://sos.oregon.gov/elections/Documents/2018-election-timeline.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'yes'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: Oregon
+    total_cong_districts: '5'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-16'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-16'
+    notes: ''
+PA:
+  early-vote:
+    general_ballot_return_date: '2017-11-02'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-30'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: closed
+    primary_federal_election_date: '2018-05-15'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-05-11'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-05-08'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://www.dos.pa.gov/VotingElections/Pages/default.aspx
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: In-person absentee voting is with an excuse only.
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Pennsylvania
+    total_cong_districts: '18'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-07'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+PR:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: Puerto Rico
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+PW:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: ''
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: ''
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: Palau
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+RI:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-10-21'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-09-11'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-09-11'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-08-21'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://sos.ri.gov/divisions/Elections
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Rhode Island
+    total_cong_districts: '2'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-07'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+SC:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-11-02'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-06-12'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: '2018-06-26'
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-06-11'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: '2018-06-08'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: '2018-05-13'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-11'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://www.scvotes.org/sites/default/files/2018%20Election%20Calendar%202017-11-21.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: South Carolina
+    total_cong_districts: '7'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-07'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+SD:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-05'
+    general_evip_start_date: '2018-09-21'
+    general_vbm_application_deadline: '2018-11-02'
+    notes: In-person absentee voting; varies by county
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: '2018-06-05'
+    primary_federal_rep_election_type: closed
+    primary_runoff_federal_election_date: '2018-08-14'
+  federal-early-vote:
+    notes: In-person absentee voting; varies by county
+    primary_federal_ballot_return_date: '2018-06-05'
+    primary_federal_evip_close_date: '2018-06-04'
+    primary_federal_federal_evip_start_date: '2018-04-20'
+    primary_federal_vbm_application_deadline: '2018-06-01'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-21'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://sdsos.gov/elections-voting/assets/2018ElectionCALENDAR.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: 'no'
+    state_name: South Dakota
+    total_cong_districts: '1'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-22'
+    notes: ''
+TN:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-19'
+    general_vbm_application_deadline: '2018-11-01'
+    notes: ''
+  election-day:
+    notes: Polling place hours vary by county
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-open
+    primary_federal_election_date: '2018-08-02'
+    primary_federal_rep_election_type: semi-open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-08-02'
+    primary_federal_evip_close_date: '2018-07-27'
+    primary_federal_federal_evip_start_date: '2018-07-13'
+    primary_federal_vbm_application_deadline: '2018-07-26'
+  federal-election-day:
+    notes: Polling place hours vary by county
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-03'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://sos.tn.gov/products/elections/election-calendar-0
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'yes'
+    state_name: Tennessee
+    total_cong_districts: '9'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-07'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+TX:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-02'
+    general_evip_start_date: '2018-10-22'
+    general_vbm_application_deadline: '2018-10-26'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-03-06'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: '2018-05-22'
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-03-06'
+    primary_federal_evip_close_date: '2018-03-02'
+    primary_federal_federal_evip_start_date: '2018-02-19'
+    primary_federal_vbm_application_deadline: '2018-02-23'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-02-05'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://www.sos.state.tx.us/elections/voter/2018-important-election-dates.shtml
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Texas
+    total_cong_districts: '36'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-07'
+    notes: ''
+UT:
+  early-vote:
+    general_ballot_return_date: '2018-11-05'
+    general_evip_close_date: '2018-11-02'
+    general_evip_start_date: '2018-10-23'
+    general_vbm_application_deadline: '2018-11-01'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-06-26'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-06-25'
+    primary_federal_evip_close_date: '2018-06-22'
+    primary_federal_federal_evip_start_date: '2018-06-12'
+    primary_federal_vbm_application_deadline: '2018-06-21'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-05-29'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://elections.utah.gov/Media/Default/2018%20Election/2018%20Candidate%20Manual.pdf
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Utah
+    total_cong_districts: '4'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-30'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-30'
+    notes: ''
+VA:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-09-22'
+    general_vbm_application_deadline: '2018-10-30'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-06-12'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-06-12'
+    primary_federal_evip_close_date: '2018-06-08'
+    primary_federal_federal_evip_start_date: '2018-04-28'
+    primary_federal_vbm_application_deadline: '2018-06-05'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 6:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: https://www.elections.virginia.gov/voter-outreach/upcoming-elections.html
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Virginia
+    total_cong_districts: '11'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-15'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-15'
+    notes: ''
+VI:
+  early-vote:
+    general_ballot_return_date: ''
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: '2018-08-04'
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: ''
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: ''
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: other
+    early_vote_by_mail: ''
+    early_vote_by_mail_fault: ''
+    early_vote_in_person: ''
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: ''
+    governor_election_2018: 'no'
+    governor_open_seat_2018: ''
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: ''
+    is_state: 'no'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: ''
+    same_day_vr: ''
+    senate_elected_2018_incumbent_party: ''
+    senate_election_2018: 'no'
+    senate_open_seat_2018: ''
+    state_name: Virgin Islands
+    total_cong_districts: '0'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+VT:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-06'
+    general_evip_start_date: '2018-09-22'
+    general_vbm_application_deadline: '2018-11-05'
+    notes: In-person absentee voting.
+  election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 7:00:00 PM
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-14'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-08-14'
+    primary_federal_evip_close_date: '2018-08-13'
+    primary_federal_federal_evip_start_date: '2018-07-02'
+    primary_federal_vbm_application_deadline: '2018-08-13'
+  federal-election-day:
+    notes: Polling place hours vary by town/municipality
+    polls_close: 7:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: Voters in Vermont can register to vote on any day, including Election Day
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'yes'
+    election_calendar_url: https://www.sec.state.vt.us/elections/elections-calendar-of-events.aspx?month=7&year=2018&page=1
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Vermont
+    total_cong_districts: '1'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: Voters in Vermont can register to vote on any day, including Election Day
+WA:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: ''
+    general_evip_start_date: ''
+    general_vbm_application_deadline: ''
+    notes: Washington votes by mail exclusively.
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: ''
+    primary_federal_election_date: '2018-08-07'
+    primary_federal_rep_election_type: ''
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: Washington votes by mail exclusively.
+    primary_federal_ballot_return_date: '2018-08-07'
+    primary_federal_evip_close_date: ''
+    primary_federal_federal_evip_start_date: ''
+    primary_federal_vbm_application_deadline: ''
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: ''
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: '2018-07-09'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-30'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: democrat
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'no'
+    eastern_tz_flag: 'no'
+    eday_vr: 'no'
+    election_calendar_url: https://www.sos.wa.gov/elections/calendar_list.aspx?y=2018
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'yes'
+    perm_absentee: 'yes'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Washington
+    total_cong_districts: '10'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-08'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-08'
+    notes: ''
+WI:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-02'
+    general_evip_start_date: ''
+    general_vbm_application_deadline: '2018-11-01'
+    notes: In-person absentee voting; various by town/municipality
+  election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: open
+    primary_federal_election_date: '2018-08-14'
+    primary_federal_rep_election_type: open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting; various by town/municipality
+    primary_federal_ballot_return_date: '2018-08-14'
+    primary_federal_evip_close_date: '2018-08-12'
+    primary_federal_federal_evip_start_date: '2018-06-28'
+    primary_federal_vbm_application_deadline: '2018-08-09'
+  federal-election-day:
+    notes: ''
+    polls_close: 8:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: '2018-07-25'
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: '2018-07-25'
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'yes'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: http://elections.wi.gov/sites/default/files/publication/65/2018_calendar_of_election_events_pdf_rev_9_19_17_19667.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Wisconsin
+    total_cong_districts: '8'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''
+WV:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-03'
+    general_evip_start_date: '2018-10-24'
+    general_vbm_application_deadline: '2018-10-31'
+    notes: ''
+  election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 6:30:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-closed
+    primary_federal_election_date: '2018-05-08'
+    primary_federal_rep_election_type: semi-closed
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: ''
+    primary_federal_ballot_return_date: '2018-05-08'
+    primary_federal_evip_close_date: '2018-05-05'
+    primary_federal_federal_evip_start_date: '2018-04-25'
+    primary_federal_vbm_application_deadline: '2018-05-02'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:30:00 PM
+    polls_open: 6:30:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'yes'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'yes'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'yes'
+    eday_vr: 'no'
+    election_calendar_url: http://sos.wv.gov/elections/Pages/default.aspx
+    governor_election_2018: 'no'
+    governor_open_seat_2018: 'no'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'no'
+    is_state: 'yes'
+    mountain_tz_flag: 'no'
+    notes: ''
+    online_vr: 'yes'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'no'
+    senate_elected_2018_incumbent_party: democrat
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: West Virginia
+    total_cong_districts: '3'
+  voter-registration:
+    general_online_vr_deadline: '2018-10-16'
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: '2018-10-16'
+    notes: ''
+WY:
+  early-vote:
+    general_ballot_return_date: '2018-11-06'
+    general_evip_close_date: '2018-11-06'
+    general_evip_start_date: '2018-09-27'
+    general_vbm_application_deadline: '2018-10-07'
+    notes: In-person absentee voting.
+  election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal:
+    notes: ''
+    primary_federal_dem_election_type: semi-open
+    primary_federal_election_date: '2018-08-21'
+    primary_federal_rep_election_type: semi-open
+    primary_runoff_federal_election_date: ''
+  federal-early-vote:
+    notes: In-person absentee voting.
+    primary_federal_ballot_return_date: '2018-08-21'
+    primary_federal_evip_close_date: '2018-08-21'
+    primary_federal_federal_evip_start_date: '2018-07-12'
+    primary_federal_vbm_application_deadline: '2018-07-23'
+  federal-election-day:
+    notes: ''
+    polls_close: 7:00:00 PM
+    polls_open: 7:00:00 AM
+  federal-voter-registration:
+    notes: ''
+    primary_federal_online_vr_deadline: ''
+    primary_federal_runoff_online_vr_deadline: ''
+    primary_federal_runoff_vr_deadline: ''
+    primary_federal_vr_deadline: ''
+  state-reference:
+    alaska_tz_flag: 'no'
+    automatic_vr: 'no'
+    central_tz_flag: 'no'
+    current_governor_party: republican
+    early_vote_by_mail: 'yes'
+    early_vote_by_mail_fault: 'no'
+    early_vote_in_person: 'yes'
+    eastern_tz_flag: 'no'
+    eday_vr: 'yes'
+    election_calendar_url: http://soswy.state.wy.us/Elections/Docs/2018/2018_Printable_Election_Calendar.pdf
+    governor_election_2018: 'yes'
+    governor_open_seat_2018: 'yes'
+    hawaiian_tz_flag: 'no'
+    in_person_absentee: 'yes'
+    is_state: 'yes'
+    mountain_tz_flag: 'yes'
+    notes: ''
+    online_vr: 'no'
+    pacific_tz_flag: 'no'
+    perm_absentee: 'no'
+    same_day_vr: 'yes'
+    senate_elected_2018_incumbent_party: republican
+    senate_election_2018: 'yes'
+    senate_open_seat_2018: 'no'
+    state_name: Wyoming
+    total_cong_districts: '1'
+  voter-registration:
+    general_online_vr_deadline: ''
+    general_runoff_online_vr_deadline: ''
+    general_runoff_vr_deadline: ''
+    general_vr_deadline: ''
+    notes: ''

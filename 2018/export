@@ -1,0 +1,46 @@
+#!/usr/bin/env python3
+
+import csv
+import json
+import yaml
+
+def load_data(csv_file, key, under, data):
+    with open(csv_file) as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sc = row[key]
+            if sc not in data: data[sc] = {}
+            if under not in data[sc]: data[sc][under] = {}
+            for k, v in row.items():
+                if k != key:
+                    data[sc][under][k] = v
+
+if __name__ == '__main__':
+
+    import sys
+
+    data = {}
+
+    load_data('g2018_eday.csv', 'state_code', 'election-day', data)
+    load_data('g2018_ev.csv', 'state_code', 'early-vote', data)
+    load_data('g2018_vr.csv', 'state_code', 'voter-registration', data)
+    load_data('p2018_federal.csv', 'state_code', 'federal', data)
+    load_data('p2018_federal_eday.csv', 'state_code', 'federal-election-day', data)
+    load_data('p2018_federal_ev.csv', 'state_code', 'federal-early-vote', data)
+    load_data('p2018_federal_vr.csv', 'state_code', 'federal-voter-registration', data)
+    load_data('state_reference.csv', 'state_code', 'state-reference', data)
+
+
+    if len(sys.argv) == 1:
+        print('Usage:')
+        print('  export --json [state]')
+        print('  export --yaml [state]')
+        exit()
+
+    if len(sys.argv) > 2:
+        data = data[sys.argv[2]]
+
+    if sys.argv[1] == '--json':
+        print(json.dumps(data, indent=4))
+    elif sys.argv[1] == '--yaml':
+        print(yaml.dump(data, default_flow_style=False))
