@@ -3,6 +3,7 @@
 import argparse
 import csv
 import json
+import re
 import yaml
 
 # For the moment we only have the one year so just brute force map
@@ -25,25 +26,16 @@ files = {
     }
 }
 
+
+
 # Likewise, it seems the column names shouldn't embed the year so we
 # just clean it up here.
 def clean_key(key):
-    if key[:6] == 'g2018_':
-        return 'general_' + key[6:]
-    elif key[:6] == 'p2018_':
-        return 'primary_' + key[6:]
-    elif key[-5:] == '_2018':
-        return key[:-5]
-    elif key.find('_p2018') != -1:
-        i = key.find('_p2018')
-        return key[:i] + key[i+6:]
-    elif key.find('_g2018') != -1:
-        i = key.find('_g2018')
-        return key[:i] + key[i+6:]
-    elif key == 'senate_elected_2018_incumbent_party':
-        return 'senate_elected_incumbent_party'
-    else:
-        return key
+    key = re.sub('g2018_', 'general_', key)
+    key = re.sub('p2018_', 'primary_', key)
+    key = re.sub('_2018$', '', key)
+    key = re.sub('_2018_', '', key)
+    return key
 
 def load_data(csv_file, under, data):
     with open(csv_file) as csvfile:
