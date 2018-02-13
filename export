@@ -17,7 +17,11 @@ files = {
         'federal-election-day'       : '2018/p2018_federal_eday.csv',
         'federal-early-vote'         : '2018/p2018_federal_ev.csv',
         'federal-voter-registration' : '2018/p2018_federal_vr.csv',
-        'state-reference'            : '2018/state_reference.csv'
+        'state-reference'            : '2018/state_reference.csv',
+        'special_general_federal'    : '2018/special_g2018_federal.csv',
+        'special_general_state'      : '2018/special_g2018_state.csv',
+        'special_primary_federal'    : '2018/special_p2018_federal.csv',
+        'special_primary_state'      : '2018/special_p2018_state.csv'
     }
 }
 
@@ -30,6 +34,12 @@ def clean_key(key):
         return 'primary_' + key[6:]
     elif key[-5:] == '_2018':
         return key[:-5]
+    elif key.find('_p2018') != -1:
+        i = key.find('_p2018')
+        return key[:i] + key[i+6:]
+    elif key.find('_g2018') != -1:
+        i = key.find('_g2018')
+        return key[:i] + key[i+6:]
     elif key == 'senate_elected_2018_incumbent_party':
         return 'senate_elected_incumbent_party'
     else:
