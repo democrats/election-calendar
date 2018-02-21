@@ -1,0 +1,5 @@
+<a href="http://usa.flagpedia.net/"><img alt="Flags of the U.S. states" src="http://usa.flagpedia.net/ico.gif" width="88" height="31" /></a>
+
+or
+
+<a title="Flags of the U.S. states" href="http://usa.flagpedia.net/">Flags of the U.S. states</a>

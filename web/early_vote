@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+
+import json
+
+g_start = 'general_early_vote_in_person_start'
+g_end   = 'general_early_vote_in_person_close'
+p_start = 'federal_primary_early_vote_in_person_start'
+p_end   = 'federal_primary_early_vote_in_person_close'
+
+with open('cleaned.json') as f:
+
+    data = json.load(f)
+    early_votes = []
+
+    for state, data in data.items():
+        if g_start in data and g_end in data:
+            early_votes.append({
+                'state': state,
+                'type': 'general',
+                'start': data['general_early_vote_in_person_start'],
+                'end': data['general_early_vote_in_person_close']
+            })
+        if p_start in data and p_end in data:
+            early_votes.append({
+                'state': state,
+                'type': 'federal_primary',
+                'start': data['federal_primary_early_vote_in_person_start'],
+                'end': data['federal_primary_early_vote_in_person_close']
+            })
+    print(json.dumps(early_votes, indent=2))

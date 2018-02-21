@@ -1,0 +1,68 @@
+g.primary {
+  stroke: #aaa;
+  fill: #aaf;
+}
+
+.domain {
+    stroke: none;
+}
+
+g.tick line {
+    stroke: #888;
+    stroke-width: 0.5px;
+    fill: none;
+}
+g.tick text{
+    fill: #888;
+    stroke: none;
+}
+
+
+g.election {
+}
+
+line.election {
+    fill: none;
+    stroke: #00f;
+    stroke-width: 0.5px;
+}
+
+circle {
+    stroke-width: 2px;
+    r: 3;
+}
+
+circle.federal         { stroke: #00f; }
+circle.state           { stroke: #f00; }
+circle.primary         { fill: none; }
+circle.federal.general { fill: #00f; }
+circle.state.general   { fill: #f00; }
+
+text {
+    fill: #000;
+}
+
+g.date, text.label {
+  stroke: #aaa;
+  fill: none;
+  font-family: sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 6px;
+    z-index: 1;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 2px;
+    pointer-events: none;
+}
+
+rect.early_vote {
+    fill: #f88;
+}
