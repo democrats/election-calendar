@@ -68,7 +68,7 @@
 
       let g = s.enter().append('g')
           .attr('class', 'state')
-          .attr('transform', function (d) { return 'translate(' + x(d) + ',' + margin.top + ')'; })
+          .attr('transform', d => 'translate(' + x(d) + ',' + margin.top + ')')
           .on("mouseover", showTooltip)
           .on("mouseout", hideTooltip);
 
@@ -77,10 +77,10 @@
         .attr('y', 0)
         .attr('width', columnWidth - 4)
         .attr('height', yScale(end))
-        .attr('fill', function (d) { return states.indexOf(d) % 2 == 0 ? 'rgba(0,0,256,0.05)' : 'rgba(256,0,0,0.05)'; })
+        .attr('fill', d => states.indexOf(d) % 2 == 0 ? 'rgba(0,0,256,0.05)' : 'rgba(256,0,0,0.05)')
 
       g.append('image')
-        .attr('href', function (d) { return 'images/' + d.toLowerCase() + '.png'; })
+        .attr('href', d => 'images/' + d.toLowerCase() + '.png')
         .attr('x', 0)
         .attr('y', - margin.top)
         .attr('width', columnWidth - 4);
@@ -105,12 +105,12 @@
       d3.select('#calendar').selectAll('g.state').each(function (state) {
         d3.select(this).selectAll('circle.election').data(election_dates)
           .enter()
-          .filter(function (d) { return d.state == state; })
+          .filter(d =>  d.state == state)
           .append('circle')
-          .attr('class', function (d) { return d.label.split('_').join(' '); })
+          .attr('class', d => d.label.split('_').join(' '))
           .attr('r', 2)
           .attr('cx', (columnWidth - 4)/2)
-          .attr('cy',  function (d) { return yScale(dateParser(d.date)); });
+          .attr('cy',  d => yScale(dateParser(d.date)));
       });
     }
 
@@ -118,13 +118,13 @@
       d3.select('#calendar').selectAll('g.state').each(function (state) {
         d3.select(this).selectAll('rect.early_vote').data(early_vote)
           .enter()
-          .filter(function (d) { return d.state == state; })
+          .filter(d => d.state == state)
           .append('rect')
-          .attr('class', function (d) { return 'early_vote ' + d.type; })
-          .attr('x', function (d) { return ((columnWidth - 4)/2) - 2; })
-          .attr('y', function (d) { return yScale(dateParser(d.start)); })
+          .attr('class', d => 'early_vote ' + d.type)
+          .attr('x', d => ((columnWidth - 4)/2) - 2)
+          .attr('y', d => yScale(dateParser(d.start)))
           .attr('width', 4)
-          .attr('height', function (d) { return yScale(dateParser(d.end)) - yScale(dateParser(d.start)); })
+          .attr('height', d => yScale(dateParser(d.end)) - yScale(dateParser(d.start)))
       });
 
     }
