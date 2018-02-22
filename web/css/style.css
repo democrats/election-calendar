@@ -66,3 +66,15 @@ div.tooltip {
 rect.early_vote {
     fill: #f88;
 }
+
+line.deadline {
+    stroke: #333;
+    stroke-width: 1px;
+}
+
+text.deadline {
+    stroke: none;
+    fill: #537;
+    font-family: sans-serif;
+    font-size: 9px;
+}

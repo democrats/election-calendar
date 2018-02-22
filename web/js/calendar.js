@@ -36,7 +36,7 @@
       tooltip.html(d).style("left", (d3.event.pageX - 20) + "px").style("top", (d3.event.pageY - 20) + "px");
     }
 
-    function hideTooltip (d) {
+    function hideTooltip () {
       tooltip.transition().duration(500).style("opacity", 0);
     }
 
@@ -68,9 +68,7 @@
 
       let g = s.enter().append('g')
           .attr('class', 'state')
-          .attr('transform', d => 'translate(' + x(d) + ',' + margin.top + ')')
-          .on("mouseover", showTooltip)
-          .on("mouseout", hideTooltip);
+          .attr('transform', d => 'translate(' + x(d) + ',' + margin.top + ')');
 
       g.append('rect')
         .attr('x', 0)
@@ -83,7 +81,10 @@
         .attr('href', d => 'images/' + d.toLowerCase() + '.png')
         .attr('x', 0)
         .attr('y', - margin.top)
-        .attr('width', columnWidth - 4);
+        .attr('width', columnWidth - 4)
+        .on("mouseover", showTooltip)
+        .on("mouseout", hideTooltip);
+
     }
 
     function extraElections(election_dates) {
@@ -110,7 +111,10 @@
           .attr('class', d => d.label.split('_').join(' '))
           .attr('r', 2)
           .attr('cx', (columnWidth - 4)/2)
-          .attr('cy',  d => yScale(dateParser(d.date)));
+          .attr('cy',  d => yScale(dateParser(d.date)))
+          .on("mouseover", d => showTooltip(d.date))
+          .on("mouseout", hideTooltip);
+
       });
     }
 
@@ -125,14 +129,34 @@
           .attr('y', d => yScale(dateParser(d.start)))
           .attr('width', 4)
           .attr('height', d => yScale(dateParser(d.end)) - yScale(dateParser(d.start)))
-      });
+          .on("mouseover", d => showTooltip(d.start + ' to ' + d.end))
+          .on("mouseout", hideTooltip);
 
+      });
+    }
+
+    function deadlines(dates) {
+      d3.select('#calendar').selectAll('g.state').each(function (state) {
+        d3.select(this).selectAll('text.deadline').data(dates)
+          .enter()
+          .filter(d => d.state == state)
+          .append('text')
+          .attr('class', 'deadline')
+          .attr('x', (columnWidth - 4) / 2)
+          .attr('y', d => yScale(dateParser(d.date)) + 4)
+          .attr('text-anchor', 'middle')
+          .text(d => d.label)
+          .on("mouseover", d => showTooltip(d.date))
+          .on("mouseout", hideTooltip);
+
+      });
     }
 
     setupStates(states);
 
     d3.json('elections.json', elections);
     d3.json('early_vote.json', earlyVotes);
+    d3.json('deadlines.json', deadlines);
   }
 
   document.addEventListener("DOMContentLoaded", go);
