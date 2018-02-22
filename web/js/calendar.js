@@ -168,7 +168,7 @@
     }
 
     function setupStates(states) {
-      let s = d3.select('#calendar').selectAll('g.state').data(states);
+      let s = d3.select('#calendar').append('g').selectAll('g.state').data(states);
 
       function x (d) { return axisMargin + axisPadding + stateColumn(d); }
 
@@ -180,8 +180,7 @@
         .attr('x', 0)
         .attr('y', 0)
         .attr('width', columnWidth - 4)
-        .attr('height', yScale(end))
-        .attr('fill', d => states.indexOf(d) % 2 == 0 ? 'rgba(0,0,256,0.05)' : 'rgba(256,0,0,0.05)')
+        .attr('height', yScale(end));
 
       g.append('image')
         .attr('href', d => 'images/' + d.toLowerCase() + '.png')

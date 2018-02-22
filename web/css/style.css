@@ -17,8 +17,11 @@ g.tick text{
     stroke: none;
 }
 
-
-g.election {
+g.state:nth-child(odd) {
+    fill: rgba(0,0,256,0.05);
+}
+g.state:nth-child(even) {
+    fill: rgba(256,0,0,0.05);
 }
 
 line.election {
