@@ -46,6 +46,9 @@
         .tickFormat(d3.timeFormat("%B"))
         .tickSize(-1 * (axisPadding + (columnWidth * states.length)));
 
+    function tooltipDate(date) {
+      return d3.timeFormat('%A, %B %d')(dateParser(date));
+    }
 
     let svg = d3.select('body').append('svg')
         .attr('id', 'calendar')
@@ -152,7 +155,7 @@
           .attr('r', 2)
           .attr('cx', (columnWidth - 4)/2)
           .attr('cy',  d => yScale(dateParser(d.date)))
-          .on("mouseover", d => showTooltip(d.date))
+          .on("mouseover", d => showTooltip(tooltipDate(d.date)))
           .on("mouseout", hideTooltip);
 
       });
@@ -169,7 +172,7 @@
           .attr('y', d => yScale(dateParser(d.start)))
           .attr('width', 4)
           .attr('height', d => yScale(dateParser(d.end)) - yScale(dateParser(d.start)))
-          .on("mouseover", d => showTooltip(d.start + ' to ' + d.end))
+          .on("mouseover", d => showTooltip(tooltipDate(d.start) + ' to ' + tooltipDate(d.end)))
           .on("mouseout", hideTooltip);
 
       });
@@ -186,7 +189,7 @@
           .attr('y', d => yScale(dateParser(d.date)) + 4)
           .attr('text-anchor', 'middle')
           .text(d => d.label)
-          .on("mouseover", d => showTooltip(d.date))
+          .on("mouseover", d => showTooltip(tooltipDate(d.date)))
           .on("mouseout", hideTooltip);
 
       });
