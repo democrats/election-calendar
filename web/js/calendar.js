@@ -19,7 +19,7 @@
     // Graphical dimensions
     let totalWidth  = document.body.clientWidth;
     let totalHeight = window.innerHeight || document.body.clientHeight;
-    let margin      = { top: 20, right: 40, bottom: 20, left: 20 };
+    let margin      = { top: 20, right: 40, bottom: 120, left: 20 };
     let width       = totalWidth - (margin.right + margin.left);
     let height      = totalHeight - (margin.top + margin.bottom);
     let axisMargin  = 60;
@@ -40,7 +40,7 @@
       tooltip.transition().duration(500).style("opacity", 0);
     }
 
-    let yScale = d3.scaleTime().domain([start, end]).range([0, height - (margin.top + margin.bottom)]);
+    let yScale = d3.scaleTime().domain([start, end]).range([0, height - margin.top]);
 
     let yAxis = d3.axisLeft(yScale)
         .tickFormat(d3.timeFormat("%B"))
@@ -51,14 +51,54 @@
         .attr('id', 'calendar')
         .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
         .attr('width', width)
-        .attr('height', height);
+        .attr('height', totalHeight);
 
     svg.append('g')
       .attr('transform', 'translate(' + axisMargin + ',' + margin.top + ')')
       .call(yAxis);
 
+
+    function addLegend () {
+
+      let legend = svg.append('g')
+          .attr('class', 'legend')
+          .attr('transform', 'translate(' + (axisMargin * 2.0) + ',' + (height + 15) + ')');
+
+      // Legend
+      legend.append('circle').attr('class', 'federal general').attr('cx', 20) .attr('cy', 20);
+      legend.append('text').attr('x', 28).attr('y', 24).text('Federal election');
+      legend.append('circle').attr('class', 'federal primary').attr('cx', 20) .attr('cy', 40);
+      legend.append('text').attr('x', 28).attr('y', 44).text('Federal primary');
+
+      legend.append('circle').attr('class', 'state general').attr('cx', 160) .attr('cy', 20);
+      legend.append('text').attr('x', 168).attr('y', 24).text('State election');
+      legend.append('circle').attr('class', 'state primary').attr('cx', 160) .attr('cy', 40);
+      legend.append('text').attr('x', 168).attr('y', 44).text('State primary');
+
+      let labels = {
+        'O': 'Online registration',
+        'M': 'Vote by mail application',
+        'R': 'Register to vote'
+      };
+      let i = 0;
+      for (let label in labels) {
+        let y = 24 + (i++ * 20);
+        legend.append('text').attr('class', 'deadline').text(label).attr('x', 280).attr('y', y);
+        legend.append('text').attr('x', 296).attr('y', y).text(labels[label]);
+      }
+
+      legend
+        .append('rect')
+        .attr('class', 'early_vote')
+        .attr('x', 476)
+        .attr('y', 10)
+        .attr('width', 4)
+        .attr('height', 60);
+      legend.append('text').attr('x', 486).attr('y', 40).text('Early vote in person');
+    }
+
     function stateColumn(state) {
-      return states.indexOf(state) * columnWidth;
+        return states.indexOf(state) * columnWidth;
     }
 
     function setupStates(states) {
@@ -153,6 +193,7 @@
     }
 
     setupStates(states);
+    addLegend();
 
     d3.json('elections.json', elections);
     d3.json('early_vote.json', earlyVotes);

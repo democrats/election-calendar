@@ -78,3 +78,7 @@ text.deadline {
     font-family: sans-serif;
     font-size: 9px;
 }
+
+.legend text.deadline {
+    font-size: 12px;
+}
