@@ -9,7 +9,9 @@
     'SD', 'TN', 'TX', 'UT', 'VA', 'VT', 'WA', 'WI', 'WV', 'WY'
   ];
 
-  let stateNames = {
+  let nonStates = [ 'AS', 'DC', 'FM', 'GU', 'MH', 'MP', 'PR', 'PW', 'VI' ];
+
+  let names = {
     'AK': 'Alaska',
     'AL': 'Alabama',
     'AR': 'Arkansas',
@@ -187,7 +189,7 @@
         .attr('x', 0)
         .attr('y', - margin.top)
         .attr('width', columnWidth - 4)
-        .on("mouseover", d => showTooltip(stateNames[d]))
+        .on("mouseover", d => showTooltip(names[d]))
         .on("mouseout", hideTooltip);
 
     }
