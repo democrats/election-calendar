@@ -14,12 +14,15 @@ CT:
 - http://portal.ct.gov/SOTS/Election-Services/Calendars/Election-Calendars
 DC:
 - https://www.dcboe.org/election_info/election_year2018/
+- https://www.dcboe.org/faq/voter_reg.asp
 DE:
 - https://elections.delaware.gov/calendar/2018ElectionCalendar.pdf
 FL:
 - http://dos.myflorida.com/elections/for-voters/election-dates/
 GA:
 - http://sos.ga.gov/index.php/elections/2018_elections_and_voter_registration_calendar
+GU:
+- https://gec.guam.gov/index.php/for-voters/for-voters
 HI: []
 IA:
 - https://sos.iowa.gov/elections/electioninfo/3yrelectioncal.html
@@ -46,6 +49,8 @@ MN:
 - http://www.sos.state.mn.us/election-administration-campaigns/elections-calendar/
 MO:
 - https://www.sos.mo.gov/elections/calendar/2018cal
+MP:
+- https://www.votecnmi.gov.mp/component/content/article/94-news/latest-news/222-important-dates-2018
 MS:
 - http://www.sos.ms.gov/Elections-Voting/Documents/2018%20Website%20Calendar.pdf
 MT:
@@ -67,6 +72,9 @@ NV:
 NY:
 - https://www.elections.ny.gov/NYSBOE/law/2018PoliticalCalendar.pdf
 OH:
+- Registration ends 30 days before the election but in 2018 that would be a Sunday,
+  10/7, and Monday, 10/8, is Columbus day so it's 10/9
+- https://olvr.sos.state.oh.us/
 - https://www.sos.state.oh.us/globalassets/publications/election/2018electioncalendar_letter.pdf
 OK:
 - https://www.ok.gov/elections/Election_Info/2018_Election_Calendar.html
@@ -82,11 +90,14 @@ SD:
 - https://sdsos.gov/elections-voting/assets/2018ElectionCALENDAR.pdf
 TN:
 - https://sos.tn.gov/products/elections/election-calendar-0
-TX: []
+TX:
+- https://www.sos.state.tx.us/elections/voter/2018-important-election-dates.shtml
 UT:
 - https://elections.utah.gov/Media/Default/2018%20Election/2018%20Candidate%20Manual.pdf
 VA:
 - https://www.elections.virginia.gov/voter-outreach/upcoming-elections.html
+VI:
+- https://www.vivote.gov/voters/register-vote
 VT:
 - https://www.sec.state.vt.us/elections/elections-calendar-of-events.aspx?month=7&year=2018&page=1
 WA:

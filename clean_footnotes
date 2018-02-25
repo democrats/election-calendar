@@ -6,14 +6,18 @@
 # usage: ./clean_footnotes footnotes.yaml
 #
 
-
+import shutil
 import sys
 import yaml
 
 if __name__ == '__main__':
 
-    with open(sys.argv[1]) as f:
+    file = sys.argv[1]
+
+    shutil.copy(file, file + '~')
+
+    with open(file) as f:
         orig = yaml.load(f)
 
-    with open(sys.argv[1], mode='w') as f:
+    with open(file, mode='w') as f:
         yaml.dump({ k: sorted(list(set(v))) for k, v in orig.items() }, f, default_flow_style=False)
