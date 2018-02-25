@@ -1,5 +1,6 @@
 AK:
 - http://elections.alaska.gov/Core/electiondatesandhours.php
+AR:
 - https://www.sos.arkansas.gov/uploads/elections/2018ElectionCalendar.pdf
 AL:
 - http://sos.alabama.gov/sites/default/files/voter-pdfs/2018/2018AdministrativeCalendar.pdf
@@ -9,7 +10,8 @@ AZ:
 - https://www.azsos.gov/elections/elections-calendar-upcoming-events
 CA:
 - http://www.sos.ca.gov/elections/upcoming-elections/
-CO: []
+CO:
+- https://www.sos.state.co.us/pubs/elections/calendars/2018ElectionCalendar.pdf
 CT:
 - http://portal.ct.gov/SOTS/Election-Services/Calendars/Election-Calendars
 DC:
@@ -23,22 +25,29 @@ GA:
 - http://sos.ga.gov/index.php/elections/2018_elections_and_voter_registration_calendar
 GU:
 - https://gec.guam.gov/index.php/for-voters/for-voters
-HI: []
+HI:
+- http://elections.hawaii.gov/about-us/calendar/action~agenda/request_format~html/
 IA:
 - https://sos.iowa.gov/elections/electioninfo/3yrelectioncal.html
 ID:
 - https://apps.idahovotes.gov/OnlineVoterRegistration
 - https://idahovotes.gov/important-dates-for-voters/
 - https://idahovotes.gov/media/voter_registration.pdf
+- https://sos.idaho.gov/elect/2018Calendar.html
 - https://sos.idaho.gov/elect/clerk/Manuals/EDR2_ElectionDayRegistrationManual.pdf
-IL: []
-IN: []
+IL:
+- https://www.elections.il.gov/Downloads/ElectionInformation/PDF/2018ElectionCalendar.pdf
+IN:
+- https://www.in.gov/sos/elections/files/2018%20Calendar%20Brochure.pdf
+KS:
+- http://www.kssos.org/elections/elections_registration_voting.html
 KY:
 - https://elect.ky.gov/calendar/Documents/2018%20Election%20Calendar.pdf
 LA:
 - https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ElectionsCalendar2018.pdf
 MA:
 - https://www.sec.state.ma.us/ele/
+- https://www.sec.state.ma.us/ele/eleifv/howreg.htm
 MD:
 - http://www.elections.state.md.us/elections/2018/2018_Election_Calendar.pdf
 ME:
@@ -47,6 +56,7 @@ MI:
 - https://www.michigan.gov/documents/sos/2018_Dates_600221_7.pdf
 MN:
 - http://www.sos.state.mn.us/election-administration-campaigns/elections-calendar/
+- http://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/
 MO:
 - https://www.sos.mo.gov/elections/calendar/2018cal
 MP:
@@ -62,13 +72,16 @@ ND:
 NE:
 - http://www.sos.ne.gov/elec/2018/pdf/2018-election-calendar.pdf
 NH:
+- http://sos.nh.gov/VoterRegDeadlines.aspx
 - http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589972718
+- https://www.fvap.gov/new-hampshire
 NJ:
 - http://www.nj.gov/state/elections/election-information-archive-2018.html
 NM:
 - http://www.sos.state.nm.us/
 NV:
 - http://nvsos.gov/sos/elections/2018-election/important-2018-candidate-dates
+- http://nvsos.gov/sos/elections/2018-election/2018-calendar-events
 NY:
 - https://www.elections.ny.gov/NYSBOE/law/2018PoliticalCalendar.pdf
 OH:
