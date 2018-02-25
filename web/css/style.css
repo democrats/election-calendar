@@ -68,11 +68,13 @@ div.tooltip {
 
 rect.early_vote {
     fill: #f88;
+    z-index: 0;
 }
 
 line.deadline {
     stroke: #333;
     stroke-width: 1px;
+    z-index: 1;
 }
 
 text.deadline {
@@ -80,6 +82,7 @@ text.deadline {
     fill: #537;
     font-family: sans-serif;
     font-size: 9px;
+    z-index: 1;
 }
 
 .legend text.deadline {
