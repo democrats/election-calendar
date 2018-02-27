@@ -1,0 +1,422 @@
+[
+  {
+    "state": "AK",
+    "type": "general",
+    "start": "2018-10-22",
+    "end": "2018-11-06"
+  },
+  {
+    "state": "AK",
+    "type": "federal_primary",
+    "start": "2018-08-06",
+    "end": "2018-08-20"
+  },
+  {
+    "state": "AZ",
+    "type": "general",
+    "start": "2018-10-11",
+    "end": "2018-11-02"
+  },
+  {
+    "state": "AZ",
+    "type": "federal_primary",
+    "start": "2018-08-02",
+    "end": "2018-08-24"
+  },
+  {
+    "state": "AR",
+    "type": "general",
+    "start": "2018-10-22",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "AR",
+    "type": "federal_primary",
+    "start": "2018-05-09",
+    "end": "2018-05-21"
+  },
+  {
+    "state": "CA",
+    "type": "general",
+    "start": "2018-10-08",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "CA",
+    "type": "federal_primary",
+    "start": "2018-05-05",
+    "end": "2018-06-04"
+  },
+  {
+    "state": "CO",
+    "type": "general",
+    "start": "2018-10-30",
+    "end": "2018-11-06"
+  },
+  {
+    "state": "CO",
+    "type": "federal_primary",
+    "start": "2018-06-19",
+    "end": "2018-06-26"
+  },
+  {
+    "state": "FL",
+    "type": "general",
+    "start": "2018-10-26",
+    "end": "2018-11-02"
+  },
+  {
+    "state": "FL",
+    "type": "federal_primary",
+    "start": "2018-08-18",
+    "end": "2018-08-25"
+  },
+  {
+    "state": "GA",
+    "type": "general",
+    "start": "2018-10-15",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "GA",
+    "type": "federal_primary",
+    "start": "2018-04-30",
+    "end": "2018-05-21"
+  },
+  {
+    "state": "HI",
+    "type": "general",
+    "start": "2018-10-23",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "HI",
+    "type": "federal_primary",
+    "start": "2018-07-24",
+    "end": "2018-08-04"
+  },
+  {
+    "state": "ID",
+    "type": "general",
+    "start": "2018-10-07",
+    "end": "2018-11-02"
+  },
+  {
+    "state": "ID",
+    "type": "federal_primary",
+    "start": "2018-04-30",
+    "end": "2018-05-11"
+  },
+  {
+    "state": "IL",
+    "type": "general",
+    "start": "2018-10-22",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "IL",
+    "type": "federal_primary",
+    "start": "2018-03-05",
+    "end": "2018-03-17"
+  },
+  {
+    "state": "IN",
+    "type": "general",
+    "start": "2018-10-08",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "IN",
+    "type": "federal_primary",
+    "start": "2018-03-06",
+    "end": "2018-04-06"
+  },
+  {
+    "state": "IA",
+    "type": "general",
+    "start": "2018-09-27",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "IA",
+    "type": "federal_primary",
+    "start": "2018-04-30",
+    "end": "2018-06-04"
+  },
+  {
+    "state": "KS",
+    "type": "general",
+    "start": "2018-10-17",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "KS",
+    "type": "federal_primary",
+    "start": "2018-07-18",
+    "end": "2018-08-06"
+  },
+  {
+    "state": "KY",
+    "type": "general",
+    "start": "2018-10-19",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "KY",
+    "type": "federal_primary",
+    "start": "2018-05-10",
+    "end": "2018-05-21"
+  },
+  {
+    "state": "LA",
+    "type": "federal_primary",
+    "start": "2018-10-23",
+    "end": "2018-10-30"
+  },
+  {
+    "state": "ME",
+    "type": "general",
+    "start": "2018-11-01",
+    "end": "2018-11-06"
+  },
+  {
+    "state": "ME",
+    "type": "federal_primary",
+    "start": "2018-05-12",
+    "end": "2018-06-11"
+  },
+  {
+    "state": "MD",
+    "type": "general",
+    "start": "2018-10-27",
+    "end": "2018-11-01"
+  },
+  {
+    "state": "MD",
+    "type": "federal_primary",
+    "start": "2018-06-16",
+    "end": "2018-06-21"
+  },
+  {
+    "state": "MA",
+    "type": "federal_primary",
+    "start": "2018-08-21",
+    "end": "2018-08-31"
+  },
+  {
+    "state": "MN",
+    "type": "general",
+    "start": "2018-09-21",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "MN",
+    "type": "federal_primary",
+    "start": "2018-06-29",
+    "end": "2018-08-13"
+  },
+  {
+    "state": "MO",
+    "type": "federal_primary",
+    "start": "2018-06-26",
+    "end": "2018-08-06"
+  },
+  {
+    "state": "MT",
+    "type": "general",
+    "start": "2018-10-07",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "MT",
+    "type": "federal_primary",
+    "start": "2018-05-05",
+    "end": "2018-06-04"
+  },
+  {
+    "state": "NE",
+    "type": "general",
+    "start": "2018-10-02",
+    "end": "2018-11-06"
+  },
+  {
+    "state": "NE",
+    "type": "federal_primary",
+    "start": "2018-04-10",
+    "end": "2018-05-14"
+  },
+  {
+    "state": "NV",
+    "type": "general",
+    "start": "2018-10-20",
+    "end": "2018-11-02"
+  },
+  {
+    "state": "NV",
+    "type": "federal_primary",
+    "start": "2018-05-26",
+    "end": "2018-06-08"
+  },
+  {
+    "state": "NM",
+    "type": "general",
+    "start": "2018-10-09",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "NM",
+    "type": "federal_primary",
+    "start": "2018-05-08",
+    "end": "2018-06-02"
+  },
+  {
+    "state": "NC",
+    "type": "general",
+    "start": "2018-10-18",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "NC",
+    "type": "federal_primary",
+    "start": "2018-04-19",
+    "end": "2018-05-05"
+  },
+  {
+    "state": "OH",
+    "type": "general",
+    "start": "2018-10-10",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "OH",
+    "type": "federal_primary",
+    "start": "2018-04-10",
+    "end": "2018-05-07"
+  },
+  {
+    "state": "OK",
+    "type": "general",
+    "start": "2018-10-29",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "OK",
+    "type": "federal_primary",
+    "start": "2018-06-21",
+    "end": "2018-06-23"
+  },
+  {
+    "state": "SD",
+    "type": "general",
+    "start": "2018-09-21",
+    "end": "2018-11-05"
+  },
+  {
+    "state": "SD",
+    "type": "federal_primary",
+    "start": "2018-04-20",
+    "end": "2018-06-04"
+  },
+  {
+    "state": "TN",
+    "type": "general",
+    "start": "2018-10-19",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "TN",
+    "type": "federal_primary",
+    "start": "2018-07-13",
+    "end": "2018-07-27"
+  },
+  {
+    "state": "TX",
+    "type": "general",
+    "start": "2018-10-22",
+    "end": "2018-11-02"
+  },
+  {
+    "state": "TX",
+    "type": "federal_primary",
+    "start": "2018-02-20",
+    "end": "2018-03-02"
+  },
+  {
+    "state": "UT",
+    "type": "general",
+    "start": "2018-10-23",
+    "end": "2018-11-02"
+  },
+  {
+    "state": "UT",
+    "type": "federal_primary",
+    "start": "2018-06-12",
+    "end": "2018-06-22"
+  },
+  {
+    "state": "VT",
+    "type": "general",
+    "start": "2018-09-22",
+    "end": "2018-11-06"
+  },
+  {
+    "state": "VT",
+    "type": "federal_primary",
+    "start": "2018-07-02",
+    "end": "2018-08-13"
+  },
+  {
+    "state": "VA",
+    "type": "general",
+    "start": "2018-09-22",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "VA",
+    "type": "federal_primary",
+    "start": "2018-04-28",
+    "end": "2018-06-08"
+  },
+  {
+    "state": "WV",
+    "type": "general",
+    "start": "2018-10-24",
+    "end": "2018-11-03"
+  },
+  {
+    "state": "WV",
+    "type": "federal_primary",
+    "start": "2018-04-25",
+    "end": "2018-05-05"
+  },
+  {
+    "state": "WI",
+    "type": "federal_primary",
+    "start": "2018-06-28",
+    "end": "2018-08-12"
+  },
+  {
+    "state": "WY",
+    "type": "general",
+    "start": "2018-09-27",
+    "end": "2018-11-06"
+  },
+  {
+    "state": "WY",
+    "type": "federal_primary",
+    "start": "2018-07-12",
+    "end": "2018-08-21"
+  },
+  {
+    "state": "DC",
+    "type": "general",
+    "start": "2018-10-26",
+    "end": "2018-11-02"
+  },
+  {
+    "state": "DC",
+    "type": "federal_primary",
+    "start": "2018-06-08",
+    "end": "2018-06-15"
+  }
+]

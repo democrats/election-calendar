@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+
+from collections import defaultdict
+import json
+import sys
+
+labels = {
+    'federal_primary_online_voter_registration_deadline': 'O',
+    'federal_primary_vote_by_mail_application_deadline': 'M',
+    'federal_primary_voter_registration_deadline': 'R',
+    'general_online_voter_registration_deadline': 'O',
+    'general_vote_by_mail_application_deadline': 'M',
+    'general_voter_registration_deadline': 'R',
+}
+
+def dates():
+    with open(sys.argv[1]) as f:
+        for state, dates in json.load(f).items():
+            x = defaultdict(set)
+            for label in labels:
+                if label in dates:
+                    x[dates[label]].add(labels[label])
+            for d, v in x.items():
+                if d <= '2018-11-06':
+                    yield { 'state': state, 'date': d, 'label': ','.join(sorted(v)) }
+
+if __name__ == '__main__':
+
+    print(json.dumps(list(dates()), indent=2))

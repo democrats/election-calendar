@@ -9,7 +9,11 @@ The DNC Technology Department has compiled various data relating to elections in
 * __p2018_federal_eday__: this table contains all election day-specific data regarding the 2018 federal primary
 * __g2018_vr__: this table contains all the data associated with voter registration for the 2018 general election
 * __g2018_ev__: this table contains all data associated with voting early / prior to election day for the 2018 general election
-* __g2018_eday__: this table contains election day-specific data related to the 2018 general election 
+* __g2018_eday__: this table contains election day-specific data related to the 2018 general election
+* __special_p2018_federal__: this table contains all data associated with special federal primary elections, primarily the dates and types of primaries by political party
+* __special_p2018_state__: this table contains all data associated with special federal state elections, primarily the dates and types of primaries by political party
+* __special_g2018_federal__: this table contains election day-specific data related to the 2018 special federal general elections
+* __special_g2018_state__: this table contains election day-specific data related to the 2018 special state general elections
 
 ## state_reference
 
@@ -115,4 +119,52 @@ The DNC Technology Department has compiled various data relating to elections in
 | state_code | Two-letter abbreviation for state, territory, etc. |
 | polls_open | time at which polls open |
 | polls_close | time at which polls close |
+| notes | additional helpful information that further explains any of the columns contained within this particular dataset |
+
+## special_p2018_federal
+
+| column | description |
+| :--- |:---|
+| state_code | Two-letter abbreviation for state, territory, etc. |
+| district_type | type of district; allowed values: 'U.S. Senate', 'U.S. Senate' |
+| district | the district number, or state_code if U.S. Senate |
+| special_p2018_federal_election_date | date (if known) of the special federal primary election |
+| special_p2018_federal_runoff_election_date | date (if known) of the special federal primary runoff election | 
+| dem_election_type | the exact type of democratic special federal primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
+| rep_election_type | the exact type of republican special federal primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
+| notes | additional helpful information that further explains any of the columns contained within this particular dataset |
+
+## special_p2018_state
+
+| column | description |
+| :--- |:---|
+| state_code | Two-letter abbreviation for state, territory, etc. |
+| district_type | type of district; allowed values: 'upper', 'lower', 'unicameral' |
+| district | the district number or district string |
+| special_p2018_state_election_date | date (if known) of the special state primary election |
+| special_p2018_state_runoff_election_date | date (if known) of the special state primary runoff election | 
+| dem_election_type | the exact type of democratic special state primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
+| rep_election_type | the exact type of republican special state primary to be conducted; allowed values: 'open', 'semi-open', 'semi-closed', 'closed', 'jungle' |
+| notes | additional helpful information that further explains any of the columns contained within this particular dataset |
+
+## special_g2018_federal
+
+| column | description |
+| :--- |:---|
+| state_code | Two-letter abbreviation for state, territory, etc. |
+| district_type | type of district; allowed values: 'U.S. Senate', 'U.S. Senate' |
+| district | the district number, or state_code if U.S. Senate |
+| special_g2018_federal_election_date | date (if known) of the special federal general election |
+| special_g2018_federal_runoff_election_date | date (if known) of the special federal general runoff election | 
+| notes | additional helpful information that further explains any of the columns contained within this particular dataset |
+
+## special_g2018_state
+
+| column | description |
+| :--- |:---|
+| state_code | Two-letter abbreviation for state, territory, etc. |
+| district_type | type of district; allowed values: 'upper', 'lower', 'unicameral' |
+| district | the district number or district string |
+| special_g2018_state_election_date | date (if known) of the special state general election |
+| special_g2018_state_runoff_election_date | date (if known) of the special state general runoff election | 
 | notes | additional helpful information that further explains any of the columns contained within this particular dataset |

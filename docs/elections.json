@@ -1,0 +1,492 @@
+[
+  {
+    "state": "AL",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "AL",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-07-17"
+  },
+  {
+    "state": "AL",
+    "label": "special_general_state_election",
+    "date": "2018-05-15"
+  },
+  {
+    "state": "AL",
+    "label": "special_primary_state_runoff_election",
+    "date": "2018-02-27"
+  },
+  {
+    "state": "AK",
+    "label": "federal_primary_election",
+    "date": "2018-08-21"
+  },
+  {
+    "state": "AZ",
+    "label": "federal_primary_election",
+    "date": "2018-08-28"
+  },
+  {
+    "state": "AZ",
+    "label": "special_general_federal_election",
+    "date": "2018-04-24"
+  },
+  {
+    "state": "AZ",
+    "label": "special_primary_federal_election",
+    "date": "2018-02-27"
+  },
+  {
+    "state": "AR",
+    "label": "federal_primary_election",
+    "date": "2018-05-22"
+  },
+  {
+    "state": "AR",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-06-19"
+  },
+  {
+    "state": "AR",
+    "label": "special_general_state_election",
+    "date": "2018-05-22"
+  },
+  {
+    "state": "AR",
+    "label": "special_primary_state_election",
+    "date": "2018-02-13"
+  },
+  {
+    "state": "AR",
+    "label": "special_primary_state_runoff_election",
+    "date": "2018-03-13"
+  },
+  {
+    "state": "CA",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "CA",
+    "label": "special_general_state_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "CA",
+    "label": "special_primary_state_election",
+    "date": "2018-04-03"
+  },
+  {
+    "state": "CO",
+    "label": "federal_primary_election",
+    "date": "2018-06-26"
+  },
+  {
+    "state": "CT",
+    "label": "federal_primary_election",
+    "date": "2018-08-14"
+  },
+  {
+    "state": "CT",
+    "label": "special_general_state_election",
+    "date": "2018-02-27"
+  },
+  {
+    "state": "DE",
+    "label": "federal_primary_election",
+    "date": "2018-09-06"
+  },
+  {
+    "state": "FL",
+    "label": "federal_primary_election",
+    "date": "2018-08-28"
+  },
+  {
+    "state": "FL",
+    "label": "special_general_state_election",
+    "date": "2018-05-01"
+  },
+  {
+    "state": "FL",
+    "label": "special_primary_state_election",
+    "date": "2018-02-20"
+  },
+  {
+    "state": "GA",
+    "label": "federal_primary_election",
+    "date": "2018-05-22"
+  },
+  {
+    "state": "GA",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-07-24"
+  },
+  {
+    "state": "GA",
+    "label": "special_general_state_election",
+    "date": "2018-02-13"
+  },
+  {
+    "state": "HI",
+    "label": "federal_primary_election",
+    "date": "2018-08-11"
+  },
+  {
+    "state": "ID",
+    "label": "federal_primary_election",
+    "date": "2018-05-15"
+  },
+  {
+    "state": "IL",
+    "label": "federal_primary_election",
+    "date": "2018-03-20"
+  },
+  {
+    "state": "IN",
+    "label": "federal_primary_election",
+    "date": "2018-05-08"
+  },
+  {
+    "state": "IA",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "KS",
+    "label": "federal_primary_election",
+    "date": "2018-08-07"
+  },
+  {
+    "state": "KY",
+    "label": "federal_primary_election",
+    "date": "2018-05-22"
+  },
+  {
+    "state": "KY",
+    "label": "special_general_state_election",
+    "date": "2018-02-27"
+  },
+  {
+    "state": "LA",
+    "label": "federal_primary_election",
+    "date": "2018-11-06"
+  },
+  {
+    "state": "LA",
+    "label": "special_general_state_election",
+    "date": "2018-04-28"
+  },
+  {
+    "state": "LA",
+    "label": "special_primary_state_election",
+    "date": "2018-03-24"
+  },
+  {
+    "state": "ME",
+    "label": "federal_primary_election",
+    "date": "2018-06-12"
+  },
+  {
+    "state": "MD",
+    "label": "federal_primary_election",
+    "date": "2018-06-26"
+  },
+  {
+    "state": "MA",
+    "label": "federal_primary_election",
+    "date": "2018-09-18"
+  },
+  {
+    "state": "MA",
+    "label": "special_general_state_election",
+    "date": "2018-05-01"
+  },
+  {
+    "state": "MA",
+    "label": "special_primary_state_election",
+    "date": "2018-04-03"
+  },
+  {
+    "state": "MI",
+    "label": "federal_primary_election",
+    "date": "2018-08-07"
+  },
+  {
+    "state": "MI",
+    "label": "special_general_federal_election",
+    "date": "2018-11-06"
+  },
+  {
+    "state": "MI",
+    "label": "special_primary_federal_election",
+    "date": "2018-08-07"
+  },
+  {
+    "state": "MN",
+    "label": "federal_primary_election",
+    "date": "2018-08-14"
+  },
+  {
+    "state": "MN",
+    "label": "special_general_state_election",
+    "date": "2018-02-12"
+  },
+  {
+    "state": "MN",
+    "label": "special_primary_state_election",
+    "date": "2018-01-29"
+  },
+  {
+    "state": "MS",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "MS",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-06-26"
+  },
+  {
+    "state": "MS",
+    "label": "special_general_state_election",
+    "date": "2018-02-20"
+  },
+  {
+    "state": "MS",
+    "label": "special_primary_state_election",
+    "date": "2018-02-20"
+  },
+  {
+    "state": "MO",
+    "label": "federal_primary_election",
+    "date": "2018-08-07"
+  },
+  {
+    "state": "MT",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "NE",
+    "label": "federal_primary_election",
+    "date": "2018-05-15"
+  },
+  {
+    "state": "NV",
+    "label": "federal_primary_election",
+    "date": "2018-06-12"
+  },
+  {
+    "state": "NH",
+    "label": "federal_primary_election",
+    "date": "2018-09-11"
+  },
+  {
+    "state": "NH",
+    "label": "special_general_state_election",
+    "date": "2018-02-27"
+  },
+  {
+    "state": "NH",
+    "label": "special_primary_state_election",
+    "date": "2018-01-09"
+  },
+  {
+    "state": "NJ",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "NM",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "NY",
+    "label": "federal_primary_election",
+    "date": "2018-06-28"
+  },
+  {
+    "state": "NC",
+    "label": "federal_primary_election",
+    "date": "2018-05-08"
+  },
+  {
+    "state": "NC",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-07-17"
+  },
+  {
+    "state": "ND",
+    "label": "federal_primary_election",
+    "date": "2018-06-12"
+  },
+  {
+    "state": "OH",
+    "label": "federal_primary_election",
+    "date": "2018-05-08"
+  },
+  {
+    "state": "OH",
+    "label": "special_general_federal_election",
+    "date": "2018-08-07"
+  },
+  {
+    "state": "OH",
+    "label": "special_primary_federal_election",
+    "date": "2018-05-08"
+  },
+  {
+    "state": "OK",
+    "label": "federal_primary_election",
+    "date": "2018-06-26"
+  },
+  {
+    "state": "OK",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-08-28"
+  },
+  {
+    "state": "OK",
+    "label": "special_general_state_election",
+    "date": "2018-03-06"
+  },
+  {
+    "state": "OK",
+    "label": "special_primary_state_election",
+    "date": "2018-01-09"
+  },
+  {
+    "state": "OR",
+    "label": "federal_primary_election",
+    "date": "2018-05-15"
+  },
+  {
+    "state": "PA",
+    "label": "federal_primary_election",
+    "date": "2018-05-15"
+  },
+  {
+    "state": "PA",
+    "label": "special_general_federal_election",
+    "date": "2018-03-13"
+  },
+  {
+    "state": "PA",
+    "label": "special_general_state_election",
+    "date": "2018-05-15"
+  },
+  {
+    "state": "RI",
+    "label": "federal_primary_election",
+    "date": "2018-09-11"
+  },
+  {
+    "state": "SC",
+    "label": "federal_primary_election",
+    "date": "2018-06-12"
+  },
+  {
+    "state": "SC",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-06-26"
+  },
+  {
+    "state": "SC",
+    "label": "special_general_state_election",
+    "date": "2018-05-01"
+  },
+  {
+    "state": "SC",
+    "label": "special_primary_state_election",
+    "date": "2018-02-27"
+  },
+  {
+    "state": "SD",
+    "label": "federal_primary_election",
+    "date": "2018-06-05"
+  },
+  {
+    "state": "SD",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-08-14"
+  },
+  {
+    "state": "TN",
+    "label": "federal_primary_election",
+    "date": "2018-08-02"
+  },
+  {
+    "state": "TN",
+    "label": "special_general_state_election",
+    "date": "2018-03-13"
+  },
+  {
+    "state": "TN",
+    "label": "special_primary_state_election",
+    "date": "2018-01-25"
+  },
+  {
+    "state": "TX",
+    "label": "federal_primary_election",
+    "date": "2018-03-06"
+  },
+  {
+    "state": "TX",
+    "label": "federal_primary_runoff_election",
+    "date": "2018-05-22"
+  },
+  {
+    "state": "UT",
+    "label": "federal_primary_election",
+    "date": "2018-06-26"
+  },
+  {
+    "state": "VT",
+    "label": "federal_primary_election",
+    "date": "2018-08-14"
+  },
+  {
+    "state": "VA",
+    "label": "federal_primary_election",
+    "date": "2018-06-12"
+  },
+  {
+    "state": "WA",
+    "label": "federal_primary_election",
+    "date": "2018-08-07"
+  },
+  {
+    "state": "WV",
+    "label": "federal_primary_election",
+    "date": "2018-05-08"
+  },
+  {
+    "state": "WI",
+    "label": "federal_primary_election",
+    "date": "2018-08-14"
+  },
+  {
+    "state": "WY",
+    "label": "federal_primary_election",
+    "date": "2018-08-21"
+  },
+  {
+    "state": "DC",
+    "label": "federal_primary_election",
+    "date": "2018-06-19"
+  },
+  {
+    "state": "GU",
+    "label": "federal_primary_election",
+    "date": "2018-08-25"
+  },
+  {
+    "state": "VI",
+    "label": "federal_primary_election",
+    "date": "2018-08-04"
+  }
+]

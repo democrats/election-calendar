@@ -1,0 +1,962 @@
+[
+  {
+    "state": "AL",
+    "date": "2018-05-31",
+    "label": "M"
+  },
+  {
+    "state": "AL",
+    "date": "2018-05-21",
+    "label": "R"
+  },
+  {
+    "state": "AL",
+    "date": "2018-10-22",
+    "label": "O,R"
+  },
+  {
+    "state": "AL",
+    "date": "2018-11-01",
+    "label": "M"
+  },
+  {
+    "state": "AK",
+    "date": "2018-08-11",
+    "label": "M"
+  },
+  {
+    "state": "AK",
+    "date": "2018-07-22",
+    "label": "R"
+  },
+  {
+    "state": "AK",
+    "date": "2018-10-07",
+    "label": "O,R"
+  },
+  {
+    "state": "AK",
+    "date": "2018-10-26",
+    "label": "M"
+  },
+  {
+    "state": "AZ",
+    "date": "2018-08-17",
+    "label": "M"
+  },
+  {
+    "state": "AZ",
+    "date": "2018-07-30",
+    "label": "R"
+  },
+  {
+    "state": "AZ",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "AZ",
+    "date": "2018-10-26",
+    "label": "M"
+  },
+  {
+    "state": "AR",
+    "date": "2018-04-06",
+    "label": "M"
+  },
+  {
+    "state": "AR",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "AR",
+    "date": "2018-10-07",
+    "label": "R"
+  },
+  {
+    "state": "CA",
+    "date": "2018-05-29",
+    "label": "M"
+  },
+  {
+    "state": "CA",
+    "date": "2018-05-21",
+    "label": "R"
+  },
+  {
+    "state": "CA",
+    "date": "2018-10-22",
+    "label": "O,R"
+  },
+  {
+    "state": "CA",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "CO",
+    "date": "2018-06-19",
+    "label": "M"
+  },
+  {
+    "state": "CO",
+    "date": "2018-06-18",
+    "label": "R"
+  },
+  {
+    "state": "CO",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "CT",
+    "date": "2018-07-14",
+    "label": "M"
+  },
+  {
+    "state": "CT",
+    "date": "2018-08-09",
+    "label": "R"
+  },
+  {
+    "state": "CT",
+    "date": "2018-10-07",
+    "label": "O,R"
+  },
+  {
+    "state": "CT",
+    "date": "2018-10-08",
+    "label": "M"
+  },
+  {
+    "state": "DE",
+    "date": "2018-09-07",
+    "label": "M"
+  },
+  {
+    "state": "DE",
+    "date": "2018-08-11",
+    "label": "R"
+  },
+  {
+    "state": "DE",
+    "date": "2018-10-13",
+    "label": "O,R"
+  },
+  {
+    "state": "DE",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "FL",
+    "date": "2018-08-22",
+    "label": "M"
+  },
+  {
+    "state": "FL",
+    "date": "2018-07-30",
+    "label": "R"
+  },
+  {
+    "state": "FL",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "FL",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "GA",
+    "date": "2018-05-18",
+    "label": "M"
+  },
+  {
+    "state": "GA",
+    "date": "2018-04-24",
+    "label": "R"
+  },
+  {
+    "state": "GA",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "GA",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "HI",
+    "date": "2018-08-02",
+    "label": "M"
+  },
+  {
+    "state": "HI",
+    "date": "2018-07-12",
+    "label": "R"
+  },
+  {
+    "state": "HI",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "HI",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "ID",
+    "date": "2018-05-09",
+    "label": "M"
+  },
+  {
+    "state": "ID",
+    "date": "2018-04-20",
+    "label": "R"
+  },
+  {
+    "state": "ID",
+    "date": "2018-10-12",
+    "label": "O"
+  },
+  {
+    "state": "ID",
+    "date": "2018-10-31",
+    "label": "M"
+  },
+  {
+    "state": "ID",
+    "date": "2018-11-06",
+    "label": "R"
+  },
+  {
+    "state": "IL",
+    "date": "2018-03-04",
+    "label": "O"
+  },
+  {
+    "state": "IL",
+    "date": "2018-03-19",
+    "label": "M"
+  },
+  {
+    "state": "IL",
+    "date": "2018-02-20",
+    "label": "R"
+  },
+  {
+    "state": "IL",
+    "date": "2018-11-01",
+    "label": "M"
+  },
+  {
+    "state": "IL",
+    "date": "2018-10-09",
+    "label": "R"
+  },
+  {
+    "state": "IN",
+    "date": "2018-04-09",
+    "label": "O,R"
+  },
+  {
+    "state": "IN",
+    "date": "2018-04-30",
+    "label": "M"
+  },
+  {
+    "state": "IN",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "IN",
+    "date": "2018-10-29",
+    "label": "M"
+  },
+  {
+    "state": "IA",
+    "date": "2018-06-01",
+    "label": "M"
+  },
+  {
+    "state": "IA",
+    "date": "2018-05-25",
+    "label": "R"
+  },
+  {
+    "state": "IA",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "KS",
+    "date": "2018-07-31",
+    "label": "M"
+  },
+  {
+    "state": "KS",
+    "date": "2018-07-12",
+    "label": "R"
+  },
+  {
+    "state": "KS",
+    "date": "2018-10-16",
+    "label": "O,R"
+  },
+  {
+    "state": "KS",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "KY",
+    "date": "2018-05-15",
+    "label": "M"
+  },
+  {
+    "state": "KY",
+    "date": "2018-04-23",
+    "label": "R"
+  },
+  {
+    "state": "KY",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "KY",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "LA",
+    "date": "2018-10-16",
+    "label": "O"
+  },
+  {
+    "state": "LA",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "LA",
+    "date": "2018-10-09",
+    "label": "R"
+  },
+  {
+    "state": "ME",
+    "date": "2018-06-07",
+    "label": "M"
+  },
+  {
+    "state": "ME",
+    "date": "2018-11-01",
+    "label": "M"
+  },
+  {
+    "state": "MD",
+    "date": "2018-06-19",
+    "label": "M"
+  },
+  {
+    "state": "MD",
+    "date": "2018-06-05",
+    "label": "R"
+  },
+  {
+    "state": "MD",
+    "date": "2018-10-16",
+    "label": "O,R"
+  },
+  {
+    "state": "MD",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "MA",
+    "date": "2018-09-03",
+    "label": "M"
+  },
+  {
+    "state": "MA",
+    "date": "2018-10-17",
+    "label": "O,R"
+  },
+  {
+    "state": "MA",
+    "date": "2018-10-07",
+    "label": "M"
+  },
+  {
+    "state": "MI",
+    "date": "2018-08-04",
+    "label": "M"
+  },
+  {
+    "state": "MI",
+    "date": "2018-07-09",
+    "label": "R"
+  },
+  {
+    "state": "MI",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "MI",
+    "date": "2018-10-09",
+    "label": "R"
+  },
+  {
+    "state": "MN",
+    "date": "2018-07-16",
+    "label": "M"
+  },
+  {
+    "state": "MN",
+    "date": "2018-07-24",
+    "label": "R"
+  },
+  {
+    "state": "MN",
+    "date": "2018-10-07",
+    "label": "M"
+  },
+  {
+    "state": "MS",
+    "date": "2018-05-06",
+    "label": "M"
+  },
+  {
+    "state": "MS",
+    "date": "2018-05-07",
+    "label": "R"
+  },
+  {
+    "state": "MS",
+    "date": "2018-10-07",
+    "label": "M"
+  },
+  {
+    "state": "MS",
+    "date": "2018-10-08",
+    "label": "R"
+  },
+  {
+    "state": "MO",
+    "date": "2018-08-01",
+    "label": "M"
+  },
+  {
+    "state": "MO",
+    "date": "2018-07-11",
+    "label": "R"
+  },
+  {
+    "state": "MO",
+    "date": "2018-10-10",
+    "label": "O,R"
+  },
+  {
+    "state": "MO",
+    "date": "2018-10-31",
+    "label": "M"
+  },
+  {
+    "state": "MT",
+    "date": "2018-06-04",
+    "label": "M"
+  },
+  {
+    "state": "MT",
+    "date": "2018-05-07",
+    "label": "R"
+  },
+  {
+    "state": "MT",
+    "date": "2018-11-05",
+    "label": "M"
+  },
+  {
+    "state": "MT",
+    "date": "2018-10-09",
+    "label": "R"
+  },
+  {
+    "state": "NE",
+    "date": "2018-04-30",
+    "label": "O,R"
+  },
+  {
+    "state": "NE",
+    "date": "2018-05-09",
+    "label": "M"
+  },
+  {
+    "state": "NE",
+    "date": "2018-10-19",
+    "label": "O,R"
+  },
+  {
+    "state": "NE",
+    "date": "2018-10-31",
+    "label": "M"
+  },
+  {
+    "state": "NV",
+    "date": "2018-05-24",
+    "label": "O"
+  },
+  {
+    "state": "NV",
+    "date": "2018-06-05",
+    "label": "M"
+  },
+  {
+    "state": "NV",
+    "date": "2018-05-14",
+    "label": "R"
+  },
+  {
+    "state": "NV",
+    "date": "2018-10-18",
+    "label": "O"
+  },
+  {
+    "state": "NV",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "NV",
+    "date": "2018-10-09",
+    "label": "R"
+  },
+  {
+    "state": "NH",
+    "date": "2018-08-13",
+    "label": "M"
+  },
+  {
+    "state": "NH",
+    "date": "2018-10-07",
+    "label": "M"
+  },
+  {
+    "state": "NJ",
+    "date": "2018-05-29",
+    "label": "M"
+  },
+  {
+    "state": "NJ",
+    "date": "2018-05-15",
+    "label": "R"
+  },
+  {
+    "state": "NJ",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "NJ",
+    "date": "2018-10-16",
+    "label": "R"
+  },
+  {
+    "state": "NM",
+    "date": "2018-06-01",
+    "label": "M"
+  },
+  {
+    "state": "NM",
+    "date": "2018-05-08",
+    "label": "R"
+  },
+  {
+    "state": "NM",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "NM",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "NY",
+    "date": "2018-06-25",
+    "label": "M"
+  },
+  {
+    "state": "NY",
+    "date": "2018-06-01",
+    "label": "R"
+  },
+  {
+    "state": "NY",
+    "date": "2018-10-12",
+    "label": "O,R"
+  },
+  {
+    "state": "NY",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "NC",
+    "date": "2018-05-01",
+    "label": "M"
+  },
+  {
+    "state": "NC",
+    "date": "2018-04-13",
+    "label": "R"
+  },
+  {
+    "state": "NC",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "NC",
+    "date": "2018-10-12",
+    "label": "R"
+  },
+  {
+    "state": "ND",
+    "date": "2018-05-11",
+    "label": "M"
+  },
+  {
+    "state": "ND",
+    "date": "2018-10-07",
+    "label": "M"
+  },
+  {
+    "state": "OH",
+    "date": "2018-05-05",
+    "label": "M"
+  },
+  {
+    "state": "OH",
+    "date": "2018-04-09",
+    "label": "R"
+  },
+  {
+    "state": "OH",
+    "date": "2018-10-09",
+    "label": "O,R"
+  },
+  {
+    "state": "OH",
+    "date": "2018-11-03",
+    "label": "M"
+  },
+  {
+    "state": "OK",
+    "date": "2018-06-20",
+    "label": "M"
+  },
+  {
+    "state": "OK",
+    "date": "2018-06-01",
+    "label": "R"
+  },
+  {
+    "state": "OK",
+    "date": "2018-10-12",
+    "label": "O,R"
+  },
+  {
+    "state": "OK",
+    "date": "2018-10-31",
+    "label": "M"
+  },
+  {
+    "state": "OR",
+    "date": "2018-03-08",
+    "label": "M"
+  },
+  {
+    "state": "OR",
+    "date": "2018-04-24",
+    "label": "R"
+  },
+  {
+    "state": "OR",
+    "date": "2018-10-16",
+    "label": "O,R"
+  },
+  {
+    "state": "OR",
+    "date": "2018-10-07",
+    "label": "M"
+  },
+  {
+    "state": "PA",
+    "date": "2018-05-08",
+    "label": "M"
+  },
+  {
+    "state": "PA",
+    "date": "2018-10-07",
+    "label": "O,R"
+  },
+  {
+    "state": "PA",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "RI",
+    "date": "2018-08-21",
+    "label": "M"
+  },
+  {
+    "state": "RI",
+    "date": "2018-10-07",
+    "label": "O,R"
+  },
+  {
+    "state": "RI",
+    "date": "2018-10-21",
+    "label": "M"
+  },
+  {
+    "state": "SC",
+    "date": "2018-05-13",
+    "label": "O"
+  },
+  {
+    "state": "SC",
+    "date": "2018-06-08",
+    "label": "M"
+  },
+  {
+    "state": "SC",
+    "date": "2018-05-11",
+    "label": "R"
+  },
+  {
+    "state": "SC",
+    "date": "2018-10-07",
+    "label": "O,R"
+  },
+  {
+    "state": "SC",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "SD",
+    "date": "2018-06-01",
+    "label": "M"
+  },
+  {
+    "state": "SD",
+    "date": "2018-05-21",
+    "label": "R"
+  },
+  {
+    "state": "SD",
+    "date": "2018-11-02",
+    "label": "M"
+  },
+  {
+    "state": "SD",
+    "date": "2018-10-22",
+    "label": "R"
+  },
+  {
+    "state": "TN",
+    "date": "2018-07-26",
+    "label": "M"
+  },
+  {
+    "state": "TN",
+    "date": "2018-07-03",
+    "label": "R"
+  },
+  {
+    "state": "TN",
+    "date": "2018-10-07",
+    "label": "O,R"
+  },
+  {
+    "state": "TN",
+    "date": "2018-11-01",
+    "label": "M"
+  },
+  {
+    "state": "TX",
+    "date": "2018-02-23",
+    "label": "M"
+  },
+  {
+    "state": "TX",
+    "date": "2018-02-05",
+    "label": "R"
+  },
+  {
+    "state": "TX",
+    "date": "2018-10-26",
+    "label": "M"
+  },
+  {
+    "state": "TX",
+    "date": "2018-10-07",
+    "label": "R"
+  },
+  {
+    "state": "UT",
+    "date": "2018-06-21",
+    "label": "M"
+  },
+  {
+    "state": "UT",
+    "date": "2018-05-29",
+    "label": "R"
+  },
+  {
+    "state": "UT",
+    "date": "2018-10-30",
+    "label": "O,R"
+  },
+  {
+    "state": "UT",
+    "date": "2018-11-01",
+    "label": "M"
+  },
+  {
+    "state": "VT",
+    "date": "2018-08-13",
+    "label": "M"
+  },
+  {
+    "state": "VT",
+    "date": "2018-11-05",
+    "label": "M"
+  },
+  {
+    "state": "VA",
+    "date": "2018-06-05",
+    "label": "M"
+  },
+  {
+    "state": "VA",
+    "date": "2018-10-15",
+    "label": "O,R"
+  },
+  {
+    "state": "VA",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "WA",
+    "date": "2018-07-09",
+    "label": "O"
+  },
+  {
+    "state": "WA",
+    "date": "2018-07-30",
+    "label": "R"
+  },
+  {
+    "state": "WA",
+    "date": "2018-10-08",
+    "label": "O,R"
+  },
+  {
+    "state": "WV",
+    "date": "2018-05-02",
+    "label": "M"
+  },
+  {
+    "state": "WV",
+    "date": "2018-10-16",
+    "label": "O,R"
+  },
+  {
+    "state": "WV",
+    "date": "2018-10-31",
+    "label": "M"
+  },
+  {
+    "state": "WI",
+    "date": "2018-07-25",
+    "label": "O,R"
+  },
+  {
+    "state": "WI",
+    "date": "2018-08-09",
+    "label": "M"
+  },
+  {
+    "state": "WI",
+    "date": "2018-11-01",
+    "label": "M"
+  },
+  {
+    "state": "WY",
+    "date": "2018-07-23",
+    "label": "M"
+  },
+  {
+    "state": "WY",
+    "date": "2018-10-07",
+    "label": "M"
+  },
+  {
+    "state": "DC",
+    "date": "2018-05-29",
+    "label": "O"
+  },
+  {
+    "state": "DC",
+    "date": "2018-06-12",
+    "label": "M"
+  },
+  {
+    "state": "DC",
+    "date": "2018-06-19",
+    "label": "R"
+  },
+  {
+    "state": "DC",
+    "date": "2018-10-16",
+    "label": "O"
+  },
+  {
+    "state": "DC",
+    "date": "2018-10-30",
+    "label": "M"
+  },
+  {
+    "state": "DC",
+    "date": "2018-11-06",
+    "label": "R"
+  },
+  {
+    "state": "GU",
+    "date": "2018-10-26",
+    "label": "R"
+  },
+  {
+    "state": "MP",
+    "date": "2018-09-07",
+    "label": "R"
+  },
+  {
+    "state": "VI",
+    "date": "2018-10-07",
+    "label": "R"
+  }
+]

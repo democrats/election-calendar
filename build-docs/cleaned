@@ -1,0 +1,39 @@
+#!/usr/bin/env python3
+
+from collections import defaultdict
+import re
+import json
+
+date = re.compile(r'^2018-\d{2}-\d{2}$')
+
+translations = {
+    'early-vote_general_ballot_return_date'                            : 'early_vote_general_ballot_return',
+    'early-vote_general_evip_close_date'                               : 'general_early_vote_in_person_close',
+    'early-vote_general_evip_start_date'                               : 'general_early_vote_in_person_start',
+    'early-vote_general_vbm_application_deadline'                      : 'general_vote_by_mail_application_deadline',
+    'federal-early-vote_primary_federal_ballot_return_date'            : 'federal_primary_ballot_return',
+    'federal-early-vote_primary_federal_evip_close_date'               : 'federal_primary_early_vote_in_person_close',
+    'federal-early-vote_primary_federal_evip_start_date'               : 'federal_primary_early_vote_in_person_start',
+    'federal-early-vote_primary_federal_vbm_application_deadline'      : 'federal_primary_vote_by_mail_application_deadline',
+    'federal-voter-registration_primary_federal_online_vr_deadline'    : 'federal_primary_online_voter_registration_deadline',
+    'federal-voter-registration_primary_federal_vr_deadline'           : 'federal_primary_voter_registration_deadline',
+    'federal_primary_federal_election_date'                            : 'federal_primary_election',
+    'federal_primary_runoff_federal_election_date'                     : 'federal_primary_runoff_election',
+    'special_general_federal_special_general_federal_election_date'    : 'special_general_federal_election',
+    'special_general_state_special_general_state_election_date'        : 'special_general_state_election',
+    'special_primary_federal_special_primary_federal_election_date'    : 'special_primary_federal_election',
+    'special_primary_state_special_primary_state_election_date'        : 'special_primary_state_election',
+    'special_primary_state_special_primary_state_runoff_election_date' : 'special_primary_state_runoff_election',
+    'voter-registration_general_online_vr_deadline'                    : 'general_online_voter_registration_deadline',
+    'voter-registration_general_vr_deadline'                           : 'general_voter_registration_deadline',
+}
+
+with open('all.json') as f:
+    data = json.load(f)
+    cleaned = defaultdict(dict)
+    for state in data:
+        for thing in data[state]:
+            for k, v in data[state][thing].items():
+                if date.match(v):
+                    cleaned[state][translations[thing + '_' + k]] = v
+    print(json.dumps(cleaned, indent=2))

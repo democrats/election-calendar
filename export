@@ -1,0 +1,72 @@
+#!/usr/bin/env python3
+
+import argparse
+import csv
+import json
+import re
+import yaml
+
+# For the moment we only have the one year so just brute force map
+# them. Better would be to have a naming convention for the files in
+# the 2018/ directory which we use in subsequent years.
+files = {
+    '2018': {
+        'election-day'               : '2018/g2018_eday.csv',
+        'early-vote'                 : '2018/g2018_ev.csv',
+        'voter-registration'         : '2018/g2018_vr.csv',
+        'federal'                    : '2018/p2018_federal.csv',
+        'federal-election-day'       : '2018/p2018_federal_eday.csv',
+        'federal-early-vote'         : '2018/p2018_federal_ev.csv',
+        'federal-voter-registration' : '2018/p2018_federal_vr.csv',
+        'state-reference'            : '2018/state_reference.csv',
+        'special_general_federal'    : '2018/special_g2018_federal.csv',
+        'special_general_state'      : '2018/special_g2018_state.csv',
+        'special_primary_federal'    : '2018/special_p2018_federal.csv',
+        'special_primary_state'      : '2018/special_p2018_state.csv'
+    }
+}
+
+
+
+# Likewise, it seems the column names shouldn't embed the year so we
+# just clean it up here.
+def clean_key(key):
+    key = re.sub('g2018_', 'general_', key)
+    key = re.sub('p2018_', 'primary_', key)
+    key = re.sub('_2018$', '', key)
+    key = re.sub('_2018_', '', key)
+    return key
+
+def load_data(csv_file, under, data):
+    with open(csv_file) as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sc = row['state_code']
+            if sc not in data: data[sc] = {}
+            if under not in data[sc]: data[sc][under] = {}
+            for k, v in row.items():
+                if k != 'state_code':
+                    data[sc][under][clean_key(k)] = v
+
+if __name__ == '__main__':
+
+    import sys
+
+    parser = argparse.ArgumentParser(description='Convert csv files to JSON or YAML.')
+    parser.add_argument('-f', '--format', default='json', help='Output format. Defaults to json', choices=['json', 'yaml'])
+    parser.add_argument('-y', '--year', default='2018', help='Year')
+    parser.add_argument('-s', '--state', help='Limit to a particular state.')
+
+    args = parser.parse_args()
+
+    data = {}
+
+    for key, file in files[args.year].items():
+        load_data(file, key, data)
+
+    to_export = data if not args.state else { args.state : data[args.state] }
+
+    if args.format == 'json':
+        print(json.dumps(to_export, indent=4))
+    elif args.format == 'yaml':
+        print(yaml.dump(to_export, default_flow_style=False))
