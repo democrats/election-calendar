@@ -1,12 +1,12 @@
-# DNC Data
+# DNC Data - an amazing project
 
-This repo contains various datasets that the DNC Tech team has compiled.
+This repo consists of various datasets that the DNC Tech team has compiled.
 
 If you'd like to contribute to any of these data set, please create a
 pull request. Specific data sets may have more specific instructions
 in their README's.
 
-By downloading the data, you certify that you understand and agree that
+By downloading the given data, you certify that you understand and agree that
 the data provided by the DNC is provided as-is, without warranty of any
 kind as to the quality, accuracy or other characteristics of the data.
 You further understand and agree that in providing the data the DNC
